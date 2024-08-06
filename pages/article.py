@@ -4,6 +4,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import datetime
 import pytz
 import spacy
+import concurrent.futures
+
 
 # Setup spacy model
 nlp = spacy.load('ru_core_news_sm')
@@ -16,13 +18,14 @@ def contains_cat_mention(text):
             return True
     return False
 
-
 class Article:
     article_by_CSS = (By.CSS_SELECTOR, "article.tm-articles-list__item:not(.tm-voice-article)")
     time_by_TAG_NAME = (By.TAG_NAME, "time")
     title_by_CSS = (By.CSS_SELECTOR, "h2.tm-title a.tm-title__link")
+    link_by_CSS = (By.CSS_SELECTOR, "h2.tm-title a.tm-title__link")
     next_page_by_CSS = (By.CSS_SELECTOR, "a.tm-pagination__navigation-link[data-pagination-next='true']")
     disabled_next_page_by_CSS = (By.CSS_SELECTOR, "div.tm-pagination__navigation-link[data-pagination-next='true']")
+    article_body_by_CSS = (By.CSS_SELECTOR, "div.article-formatted-body")
 
     def __init__(self, driver):
         self.driver = driver
@@ -35,11 +38,22 @@ class Article:
             try:
                 date_time_str = article.find_element(*self.time_by_TAG_NAME).get_attribute("datetime")
                 title = article.find_element(*self.title_by_CSS).text
-                articles_info.append((date_time_str, title))
+                link = article.find_element(*self.link_by_CSS).get_attribute("href")
+                articles_info.append((date_time_str, title, link))
             except Exception as e:
                 print(f"Error locating elements in article: {article.get_attribute('outerHTML')}, Error: {e}")
                 continue
         return articles_info
+
+    def _get_article_body_text(self, link):
+        try:
+            self.driver.get(link)
+            WebDriverWait(self.driver, 10).until(EC.presence_of_element_located(self.article_body_by_CSS))
+            article_body = self.driver.find_element(*self.article_body_by_CSS)
+            return article_body.text
+        except Exception as e:
+            print(f"Error retrieving article body from link {link}: {e}")
+            return ""
 
     def _go_to_next_page(self):
         try:
@@ -60,25 +74,24 @@ class Article:
             print(f"Could not go to the next page: {e}")
             return False
 
-    def get_articles_today(self):
-        articles_today = []
+    def check_articles_today(self):
         today = datetime.datetime.now(pytz.timezone('Europe/Moscow')).date()
 
         while True:
             articles = self._get_articles_on_current_page()
-            for date_time_str, title in articles:
+            for date_time_str, _, _ in articles:
                 article_date = datetime.datetime.fromisoformat(date_time_str[:-1]).astimezone(
                     pytz.timezone('Europe/Moscow')).date()
                 if article_date == today:
-                    articles_today.append(title)
+                    return True
                 else:
                     # Since articles are sorted by date no need to continue
-                    return articles_today
+                    return False
 
             if not self._go_to_next_page():
                 break
 
-        return articles_today
+        return False
 
     def get_articles_last_30_days(self):
         articles_last_30_days = []
@@ -87,11 +100,11 @@ class Article:
 
         while True:
             articles = self._get_articles_on_current_page()
-            for date_time_str, title in articles:
+            for date_time_str, title, link in articles:
                 article_date = datetime.datetime.fromisoformat(date_time_str[:-1]).astimezone(
                     pytz.timezone('Europe/Moscow')).date()
                 if last_30_days <= article_date <= today:
-                    articles_last_30_days.append(title)
+                    articles_last_30_days.append((article_date, title, link))
                 else:
                     return articles_last_30_days
 
@@ -100,7 +113,39 @@ class Article:
 
         return articles_last_30_days
 
-    def get_articles_with_cats_last_30_days(self):
+    def check_articles_last_30_days(self):
+        today = datetime.datetime.now(pytz.timezone('Europe/Moscow')).date()
+        last_30_days = today - datetime.timedelta(days=30)
+
+        while True:
+            articles = self._get_articles_on_current_page()
+            for date_time_str, _, _ in articles:
+                article_date = datetime.datetime.fromisoformat(date_time_str[:-1]).astimezone(
+                    pytz.timezone('Europe/Moscow')).date()
+                if last_30_days <= article_date <= today:
+                    return True
+                else:
+                    return False
+
+            if not self._go_to_next_page():
+                break
+
+        return False
+
+    def check_articles_with_cats_last_30_days(self):
         articles_last_30_days = self.get_articles_last_30_days()
-        articles_with_cats = [article for article in articles_last_30_days if contains_cat_mention(article)]
-        return articles_with_cats
+
+        def process_article(article):
+            _, _, link = article
+            article_text = self._get_article_body_text(link)
+            if contains_cat_mention(article_text):
+                return True
+            return False
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+            futures = [executor.submit(process_article, article) for article in articles_last_30_days]
+            for future in concurrent.futures.as_completed(futures):
+                if future.result():
+                    return True
+
+        return False

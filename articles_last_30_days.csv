@@ -1,0 +1,998 @@
+Date,Title,Link
+2024-08-06,Многопоточность в играх,https://habr.com/ru/articles/831850/
+2024-08-06,Не простое zigbee реле Modkam на 4 канала,https://habr.com/ru/articles/834334/
+2024-08-06,Записки bash-скриптера. Листок первый. Сокращённый if,https://habr.com/ru/articles/833602/
+2024-08-06,В сотый раз об эргономике рабочего места (на личном опыте),https://habr.com/ru/articles/834328/
+2024-08-06,"Как увидеть атомы и субатомные частицы? Что будет, если уменьшиться до атомных размеров?",https://habr.com/ru/articles/834326/
+2024-08-06,"Что ты делаешь не так, когда похудевший вес возвращается? Три ошибки",https://habr.com/ru/articles/834322/
+2024-08-06,"Python, CryptoAPI и российские криптопровайдеры",https://habr.com/ru/articles/834312/
+2024-08-06,"Малоизвестные фичи XRay, о которых невозможно молчать",https://habr.com/ru/articles/834290/
+2024-08-06,Туннель IPv6 через IPv4 для обхода замедления Youtube на уровне роутера,https://habr.com/ru/articles/834308/
+2024-08-06,SberBoom Home — новый этап в эволюции умных колонок,https://habr.com/ru/companies/sberdevices/articles/834208/
+2024-08-06,Смотрим на обновлённые умные колонки SberBoom,https://habr.com/ru/articles/834302/
+2024-08-06,Красавица из Питера приехала в Silicon Valley и научилась паять — и вы можете это тоже,https://habr.com/ru/articles/834300/
+2024-08-06,Как исправить ошибку 500 в Joomla,https://habr.com/ru/articles/834298/
+2024-08-06,11 IT-аутсорсеров для разработки интернет-магазинов и мобильных приложений в 2024 году,https://habr.com/ru/articles/834282/
+2024-08-06,"Человек мухлюющий — читы в гейм-индустрии. Часть 2: Античиты, их проблемы и возможности",https://habr.com/ru/companies/serverspace/articles/832858/
+2024-08-06,OSINT: инструментарий по анализу профилей VK,https://habr.com/ru/articles/834280/
+2024-08-06,Миграция СУБД Oracle с RISC на Linux-x86 с помощью кроссплатформенных переносимых табличных пространств — Часть 2,https://habr.com/ru/articles/834278/
+2024-08-06,"Шесть способов позаботиться о здоровье мозга, когда вам ещё нет 40",https://habr.com/ru/articles/834224/
+2024-08-06,Делаем навык для Алисы. Alice-ktx,https://habr.com/ru/articles/834264/
+2024-08-06,Зачем нужен «глаз» тропическому циклону и  как дуют ветры под облачным покровом циклона? Часть-2,https://habr.com/ru/articles/834254/
+2024-08-06,Интерфейсы в JS с помощью @teqfw/di,https://habr.com/ru/articles/834002/
+2024-08-06,Эффективная постановка и ведение задач в IT-проектах,https://habr.com/ru/articles/834248/
+2024-08-06,Склад c ума: инженеры МФТИ создали первого робота-грузчика,https://habr.com/ru/companies/mipt/articles/834242/
+2024-08-06,"Используем gocv, чтобы определить возраст, эмоции и пол человека по фото",https://habr.com/ru/companies/first/articles/833934/
+2024-08-06,Беговые часы Amazfit Cheetah Pro: обзор после года активного использования,https://habr.com/ru/articles/834244/
+2024-08-06,Из Linux уберут поддержку десятков ARM-чипов. Что происходит?,https://habr.com/ru/companies/ru_mts/articles/834148/
+2024-08-06,"Всё уже придумали за нас: библиотеки с тысячами готовых GPT-промтов для работы, учёбы и отдыха",https://habr.com/ru/articles/834054/
+2024-08-06,Командный дух и перестрелки: Как прошел турнир Девелоники по CS2,https://habr.com/ru/articles/834240/
+2024-08-06,"Как я разработал собственную рекомендательную систему вакансий c hh.ru, и почему вам это тоже может пригодиться",https://habr.com/ru/articles/834238/
+2024-08-06,Документация RuStore: как мы настроили автоматическую навигацию в Docusaurus,https://habr.com/ru/companies/vk/articles/833208/
+2024-08-06,Автоматизация проверок в Navisworks с помощью Python + визуализация в Power BI,https://habr.com/ru/articles/834228/
+2024-08-06,Как разработать регламенты которые работают,https://habr.com/ru/articles/834220/
+2024-08-06,Как пользоваться микрокалькулятором,https://habr.com/ru/companies/ruvds/articles/830464/
+2024-08-06,ЭЭГ на службе у американской военщины,https://habr.com/ru/articles/834216/
+2024-08-06,"Топ методов, чтобы бросить курить",https://habr.com/ru/articles/834098/
+2024-08-06,"Книга: «Безопасные и надежные системы: Лучшие практики проектирования, внедрения и обслуживания как в Google»",https://habr.com/ru/companies/piter/articles/833942/
+2024-08-06,Матрица компетенций. Часть 1. Меню-подход,https://habr.com/ru/companies/rosbank/articles/834204/
+2024-08-06,Что такое CRM и как её внедрять? v. 2024,https://habr.com/ru/companies/regionsoft/articles/834202/
+2024-08-06,Немного о Запутанности,https://habr.com/ru/articles/834194/
+2024-08-06,Можно ли отследить пользователя Telegram через отпечаток браузера в Mini App,https://habr.com/ru/articles/834186/
+2024-08-06,Информатор для стиральной машины,https://habr.com/ru/articles/834172/
+2024-08-06,"Анализируем трафик и определяем домены, которые используют сайты и приложения",https://habr.com/ru/articles/834168/
+2024-08-06,Введение в Identity Management с OpenIDM,https://habr.com/ru/articles/834166/
+2024-08-06,Что нового в Amplicode 2024.2,https://habr.com/ru/companies/haulmont/articles/834164/
+2024-08-06,Двухфакторная аутентификация (OTP) в OpenVPN с использованием FreeRADIUS и LDAP,https://habr.com/ru/articles/834160/
+2024-08-06,Бенчмарки больших языковых моделей. Мультиязычный MT-Bench,https://habr.com/ru/articles/834158/
+2024-08-06,Краткая история ИИ от журнала The Economist,https://habr.com/ru/articles/834156/
+2024-08-06,"Новое поколение домашнего ПО от МойОфис — рассказываем, как мы переизобрели наши редакторы",https://habr.com/ru/companies/ncloudtech/articles/834144/
+2024-08-06,Поднимаем динамические окружения для stateless- и stateful-сервисов,https://habr.com/ru/companies/kts/articles/833354/
+2024-08-06,"Как внедрить в командную работу правила игры, которые все будут выполнять",https://habr.com/ru/articles/834146/
+2024-08-06,Сколько раз в неделю – норма? О производственных совещаниях,https://habr.com/ru/articles/834136/
+2024-08-06,Как объединить кластеры Kubernetes без даунтайма: пошаговая инструкция,https://habr.com/ru/companies/cloud_ru/articles/833342/
+2024-08-06,Защищаемся от непрошеных звонков и рассылок — внимательно читаем закон о персональных данных,https://habr.com/ru/companies/bastion/articles/834114/
+2024-08-06,Compose Desktop ShadowJar,https://habr.com/ru/articles/834132/
+2024-08-06,Как мы выбираем задания на отбор Route 256: подход и разбор задач,https://habr.com/ru/companies/ozontech/articles/833762/
+2024-08-06,"Мост между централизованным и децентрализованным мирами: разбираемся, что такое оракулы",https://habr.com/ru/articles/834024/
+2024-08-06,"Как увидеть три важнейших софт-скилла, чтобы нанять лучшего инженера",https://habr.com/ru/companies/kuper/articles/833474/
+2024-08-06,"Знакомьтесь, элемент будущего: для чего открыли зелёный водород",https://habr.com/ru/companies/sberbank/articles/834106/
+2024-08-06,О чём не молчит Windows. Forensic сетевых артефактов на хосте,https://habr.com/ru/articles/834126/
+2024-08-06,Инженерия устойчивости — основной инструмент выживания вашей организации,https://habr.com/ru/companies/oleg-bunin/articles/831402/
+2024-08-06,Технологии Олимпиады,https://habr.com/ru/companies/cloud4y/articles/834112/
+2024-08-06,Многократные переплаты в ИТ и где они возникают. Ч.1,https://habr.com/ru/articles/833718/
+2024-08-06,Хранимые процедуры рудимент или еще актуальны?,https://habr.com/ru/articles/833554/
+2024-08-06,Чем накопители промышленного уровня отличаются от бытовых,https://habr.com/ru/companies/x-com/articles/834116/
+2024-08-06,Оптимизация метрик веба через аудит в Google Tag Manager: реальность или вымысел?,https://habr.com/ru/companies/ivi/articles/833900/
+2024-08-06,JSON База данных на Python,https://habr.com/ru/articles/834108/
+2024-08-06,Ликбез по компьютерному зрению в банках. Как технологии ИИ защищают ваши деньги,https://habr.com/ru/companies/ru_mts/articles/834100/
+2024-08-06,ОС «Аврора» — веб-сервер в кармане,https://habr.com/ru/companies/selectel/articles/834086/
+2024-08-06,"Go: жарим общие данные. Атомно, быстро и без мьютексов",https://habr.com/ru/companies/ruvds/articles/833264/
+2024-08-06,"И бесплатную проходку на OFFZONE 2024, и работу мечты за день. Чудеса? One Day Offer",https://habr.com/ru/companies/bizone/articles/833078/
+2024-08-06,Как я выбирал модель для прогнозирования потребности в транспортной инфраструктуре,https://habr.com/ru/articles/833988/
+2024-08-06,Шахматные задачи от Поколения,https://habr.com/ru/articles/829610/
+2024-08-06,Алгоритм Чена — новая квантовая угроза? Разбираем риски раскрытия данных с криптографами компании «Криптонит»,https://habr.com/ru/companies/kryptonite/articles/834088/
+2024-08-06,Что не так с расчётом биологического возраста?,https://habr.com/ru/companies/airi/articles/833866/
+2024-08-06,Газлайтинг на работе,https://habr.com/ru/articles/834082/
+2024-08-06,"Reality check, или какие барьеры стоят между бизнесом и квантовыми компьютерами",https://habr.com/ru/companies/mws/articles/833120/
+2024-08-06,Найм глазами тимлида,https://habr.com/ru/articles/833998/
+2024-08-06,JavaScript: структуры данных и алгоритмы. Часть 3,https://habr.com/ru/companies/timeweb/articles/832402/
+2024-08-06,От коллайдера до МРТ: большое будущее сверхпроводящих магнитов,https://habr.com/ru/companies/gazprombank/articles/833848/
+2024-08-06,"Дайджест научпоп-новостей за неделю, о которых мы ничего не писали",https://habr.com/ru/articles/834018/
+2024-08-06,Полезные курсы по ИИ,https://habr.com/ru/articles/834076/
+2024-08-06,Большая история маленького автополива,https://habr.com/ru/articles/834074/
+2024-08-06,Как не утонуть в конкуренции? Стратегия семейного бизнеса с диффузорами на Ozon от 0 до 500 000 рублей в месяц,https://habr.com/ru/companies/mako_digital/articles/833864/
+2024-08-06,Состояние Spring в 2024 году,https://habr.com/ru/companies/spring_aio/articles/834050/
+2024-08-06,Как подружить редактора и разработчика: ключевые особенности изменения контента на CMS Bitrix,https://habr.com/ru/companies/nlmk/articles/834064/
+2024-08-06,Стажировки в Solar JSOC. Часть 4. Как устроены обучающие тренинги для заказчиков,https://habr.com/ru/companies/solarsecurity/articles/833972/
+2024-08-06,Литий — новая нефть XXI века. Мировая борьба за главный компонент,https://habr.com/ru/articles/834060/
+2024-08-06,Для чего оркестру нужен дирижёр?,https://habr.com/ru/articles/834056/
+2024-08-06,Стартапы vs корпорации: кто любит айтишников больше,https://habr.com/ru/companies/lanit/articles/833802/
+2024-08-06,Практический кейс реализации AutoML в банке,https://habr.com/ru/companies/vtb/articles/833402/
+2024-08-06,"Что было бы с улыбкой Фредди Меркьюри, если бы он обратился к ортодонту",https://habr.com/ru/companies/belayaraduga/articles/833064/
+2024-08-06,Продуктовый дизайнер: как я получила визу талантов в Великобританию,https://habr.com/ru/companies/yandex_praktikum/articles/828904/
+2024-08-06,"Как быстро удалить дублирующиеся строки в CSV, Excel и таблицах Markdown?",https://habr.com/ru/articles/834044/
+2024-08-06,Использование WFM в производстве,https://habr.com/ru/articles/833376/
+2024-08-06,Из филологов в Fullstack-аналитики: мой путь без прикрас,https://habr.com/ru/articles/834038/
+2024-08-06,Подбираем нужные автозапчасти: миллиарды комбинаций за 12 минут,https://habr.com/ru/companies/avito/articles/833272/
+2024-08-06,Не любой In-context learning одинаково полезен,https://habr.com/ru/articles/832310/
+2024-08-06,"Шеринг зонтов, соцсеть в стиле 80-х – эти и другие российские стартапы",https://habr.com/ru/companies/productradar/articles/833930/
+2024-08-06,Plug and /pray/ play,https://habr.com/ru/companies/auriga/articles/795129/
+2024-08-06,Vue.js. Genesis,https://habr.com/ru/articles/832378/
+2024-08-06,Сборка Min.io dev кластера в контейнерах,https://habr.com/ru/articles/834020/
+2024-08-05,Преодоление языковых барьеров с помощью ИИ,https://habr.com/ru/articles/834016/
+2024-08-05,"Система оценивания для проведения экзаменов, срезов в СПО",https://habr.com/ru/articles/834008/
+2024-08-05,Портируем ML модели на Java с помощью ONNX,https://habr.com/ru/articles/833992/
+2024-08-05,Apple Pro Weekly News (29.07 – 04.08.24),https://habr.com/ru/articles/833990/
+2024-08-05,Графические ускорители: битва между AMD и NVIDIA,https://habr.com/ru/companies/itglobalcom/articles/833982/
+2024-08-05,Security Week 2432: шифрование cookie в браузере Google Chrome,https://habr.com/ru/companies/kaspersky/articles/833914/
+2024-08-05,Самые горячие новости инфобеза за июль 2024 года,https://habr.com/ru/companies/tomhunter/articles/833966/
+2024-08-05,ООП не определяет архитектуру проекта,https://habr.com/ru/articles/833968/
+2024-08-05,"Что такое «успешный проект» и как делать успешные проекты, если вы РП?",https://habr.com/ru/articles/833964/
+2024-08-05,"GEOINT: местонахождение главаря банды, разыскиваемого ФБР",https://habr.com/ru/articles/833960/
+2024-08-05,"Как я bash писал на Chat GPT, или IMAP to API при помощи Fetchmail",https://habr.com/ru/articles/833958/
+2024-08-05,Как мы в России сделали микрофон как у Артемия Лебедева и продаем по всему миру,https://habr.com/ru/articles/833764/
+2024-08-05,"Eppie — P2P почта, теперь с графическим интерфейсом",https://habr.com/ru/articles/833936/
+2024-08-05,Нахождение сильно преобладающего элемента последовательности >n/2 (алгоритм большинства голосов Бойера-Мура),https://habr.com/ru/articles/833932/
+2024-08-05,Factorio: оптимизации 2.0,https://habr.com/ru/companies/ruvds/articles/833892/
+2024-08-05,Как человечество будет воевать с ИИ (если верить писателям-фантастам),https://habr.com/ru/companies/onlinepatent/articles/833922/
+2024-08-05,Как мы превратили техподдержку в детективное агентство и что из этого вышло,https://habr.com/ru/companies/moysklad/articles/833920/
+2024-08-05,«У нас закончились столбцы» — лучшая худшая кодовая база,https://habr.com/ru/articles/833916/
+2024-08-05,Мотор «от Xiaomi»,https://habr.com/ru/articles/833912/
+2024-08-05,"Недельный геймдев: #185 — 4 августа, 2024",https://habr.com/ru/articles/833910/
+2024-08-05,Алгоритмы — самый провальный этап собеседований,https://habr.com/ru/articles/833908/
+2024-08-05,Настраиваем аутентификацию по SMS и через мессенджеры для самых мобильных пользователей,https://habr.com/ru/companies/ru_mts/articles/833834/
+2024-08-05,Полный гайд по тестированию на Flutter. Часть 6: Тестовые двойники: Faking vs Mocking,https://habr.com/ru/articles/833894/
+2024-08-05,Толстые хвосты распределений — это загадочно и странно,https://habr.com/ru/companies/wunderfund/articles/832276/
+2024-08-05,Как современные технологии втягивают в алкоголизм,https://habr.com/ru/companies/ppr/articles/833886/
+2024-08-05,Ищем альтернативу Ngrok в России,https://habr.com/ru/articles/833884/
+2024-08-05,Облачная инфраструктура в помощь продуктовым командам — как мы это делаем в МКБ,https://habr.com/ru/companies/mkb/articles/833092/
+2024-08-05,Как использовать Web Scraper и Python для поиска работы после IT-курсов: кого ищут работодатели?,https://habr.com/ru/articles/833862/
+2024-08-05,Новая автоматизация: как мы в Lenta Tech прокладывали рельсы импортозамещения и запускали МЧД по маршруту ФЗ-63,https://habr.com/ru/companies/lentatech/articles/833484/
+2024-08-05,Микропроцессоры и Инопланетяне,https://habr.com/ru/articles/833858/
+2024-08-05,Почему ИТ-шники выгорают не как все остальные? И что про это пишут в научных исследованиях,https://habr.com/ru/articles/833252/
+2024-08-05,Tibbo Project System (TPS): простой и идеальный конструктор IOT,https://habr.com/ru/companies/scancode/articles/833840/
+2024-08-05,Симулятор инсулинотерапии,https://habr.com/ru/articles/833838/
+2024-08-05,Необычные инструменты для ЦНС,https://habr.com/ru/articles/833828/
+2024-08-05,Разукомплектация основного средства в 1С. Рассмотрим на примере деления земельного участка на 2 части,https://habr.com/ru/articles/833160/
+2024-08-05,Джеффри Сновер и создание PowerShell,https://habr.com/ru/companies/ruvds/articles/832744/
+2024-08-05,Игровая консоль Sega Master System II: знакомство с легендой в 2024 году,https://habr.com/ru/companies/ru_mts/articles/833820/
+2024-08-05,Open-source. Плюсы и минусы на примере MoonShine Laravel,https://habr.com/ru/articles/833618/
+2024-08-05,"Кроссплатформенный фреймворк FireMonkey, Delphi",https://habr.com/ru/articles/833804/
+2024-08-05,Гипотеза о связи относительного количества ожиданий СУБД и производительности СУБД,https://habr.com/ru/articles/833808/
+2024-08-05,C3D Vision: новая функциональность и интеграция с математическим ядром,https://habr.com/ru/companies/ascon/articles/826728/
+2024-08-05,Бета Лиры — Шелиак,https://habr.com/ru/articles/833796/
+2024-08-05,«Арендовал телефон — стал фермером»: знакомство с Mobile Farm,https://habr.com/ru/companies/selectel/articles/833750/
+2024-08-05,Capacity Planning: от прогнозов к действиям — с помощью автоматизации,https://habr.com/ru/companies/jetinfosystems/articles/833790/
+2024-08-05,Темная магия SUM и SUMX,https://habr.com/ru/articles/833786/
+2024-08-05,Новые принципы внедрения нейроимплантов и первые результаты,https://habr.com/ru/articles/833782/
+2024-08-05,"ХрюХрюКар: как перестать беспокоиться, начать создавать сервисы и обзавестись друзьями",https://habr.com/ru/companies/timeweb/articles/832966/
+2024-08-05,"Кручу, верчу, выровнять ось вращения хочу! Или о том, как ось вращения объекта автоматически выравнивается в STE",https://habr.com/ru/companies/smartengines/articles/827332/
+2024-08-05,"На AI надейся, а сам не плошай",https://habr.com/ru/companies/mvideo/articles/833776/
+2024-08-05,3 варианта решения популярной задачи,https://habr.com/ru/articles/833638/
+2024-08-05,"Архитектура Flutter проекта простым языком. Clean Arch (MVVM, DI, Bloc, Inversion of Control)",https://habr.com/ru/articles/833760/
+2024-08-05,Протокол SMTP. Пишем SMTP-сервер на C,https://habr.com/ru/articles/833672/
+2024-08-05,"С чем смешать реголит, чтобы построить лунную базу",https://habr.com/ru/companies/rshb/articles/832128/
+2024-08-05,Разбор SAM2 через колено в голову или революция в разметке видео,https://habr.com/ru/articles/833692/
+2024-08-05,Business driven testing: как тестировщику решать задачи бизнеса,https://habr.com/ru/companies/skbkontur/articles/832218/
+2024-08-05,Печатать нельзя отправить. А где бы поставили запятую вы?,https://habr.com/ru/articles/833740/
+2024-08-05,О блокировке Youtube,https://habr.com/ru/articles/833690/
+2024-08-05,Как оформлять карты в цифровых и печатных карточных играх?,https://habr.com/ru/articles/833736/
+2024-08-05,"В России приняли за неделю почти все возможные законы, а Дуров рассказал о сотне «high quality» детей",https://habr.com/ru/articles/833734/
+2024-08-05,"Главные новости ИИ #3: суп харчо через SearchGPT, Альтман против Китая, “КМБ” для ИИ, китайский ИИ-комбат и роботы Маска",https://habr.com/ru/articles/833732/
+2024-08-05,Выборы президента США глазами математика. Насколько можно верить опросам?,https://habr.com/ru/articles/833724/
+2024-08-05,Вычисление отсрочки старта приготовления каши на завтра,https://habr.com/ru/articles/833648/
+2024-08-04,Как сменить технологию и не закопаться в рефакторинге: опыт внедрения DDD в проект на FastAPI — Часть 1,https://habr.com/ru/articles/833720/
+2024-08-04,Hardware in the Loop (HIL) или как залупить модель с контроллером. Зачем и кому это надо?,https://habr.com/ru/articles/833392/
+2024-08-04,Atomic CSS Deep Dive,https://habr.com/ru/articles/833712/
+2024-08-04,Сдача Spring Certified Professional (2V0-72.22) в 2024 году: Удаленно из России,https://habr.com/ru/articles/833710/
+2024-08-04,Управляемость стека,https://habr.com/ru/articles/833698/
+2024-08-04,Обучение разработке чат-ботов Telegram: топ-15 курсов,https://habr.com/ru/articles/833696/
+2024-08-04,Мобильная разработка за неделю #549 (29 июля — 4 августа),https://habr.com/ru/companies/productivity_inside/articles/833688/
+2024-08-04,AstroJS проекты в monorepo с помощью npm workspaces,https://habr.com/ru/articles/833684/
+2024-08-04,Делаем резервное питание для роутера,https://habr.com/ru/articles/833680/
+2024-08-04,Meta и Nvidia раскрывают план по созданию нового цифрового мира,https://habr.com/ru/articles/833664/
+2024-08-04,Налоги в Армении в 2024 и 2025 году,https://habr.com/ru/articles/833662/
+2024-08-04,Подборка игр с низкоуровневым программированием,https://habr.com/ru/articles/833652/
+2024-08-04,Управление личными делами в Obsidian (прототип),https://habr.com/ru/articles/833654/
+2024-08-04,"Власть, эго, смерть. От сверхчеловека к постгуманизму",https://habr.com/ru/articles/833644/
+2024-08-04,Кнопка,https://habr.com/ru/articles/833640/
+2024-08-04,Лучшая презентация для продажи ваших продуктов и услуг,https://habr.com/ru/articles/833634/
+2024-08-04,Попались на удочку: как мы заплатили 100 тысяч рублей за фишинг,https://habr.com/ru/companies/innostage/articles/833632/
+2024-08-04,Решение задачи с собеседования Middle of the Linked List [+ ВИДЕО],https://habr.com/ru/articles/833624/
+2024-08-04,Почему новый процесс в Node порождается так медленно?,https://habr.com/ru/articles/833628/
+2024-08-04,Упрощение Работы с Расширениями темам в Flutter: Инструменты и Пакеты для Генерации Стилей,https://habr.com/ru/articles/833626/
+2024-08-04,Как оптимизировать аккумуляторную батарею,https://habr.com/ru/companies/ruvds/articles/833472/
+2024-08-04,"Вышел Linux Mint 22, встречаем новую версию известного дистрибутива",https://habr.com/ru/companies/selectel/articles/833562/
+2024-08-04,"Doom в mindustry? Псевдо-3D движок, финал",https://habr.com/ru/companies/aeza/articles/833584/
+2024-08-04,"ИБ в космосе. Что может случиться, если разработчики спутниковых систем будут игнорировать киберугрозы",https://habr.com/ru/companies/ru_mts/articles/833566/
+2024-08-04,Отвязное приключение: в гостях у разработчика «ГЭГ» (часть 2),https://habr.com/ru/companies/timeweb/articles/832788/
+2024-08-04,Разработка в финтех или как пройти 7 кругов ада для вывода продукта на прод,https://habr.com/ru/articles/833604/
+2024-08-04,Создание полного Fast-API сервиса с фронтендом и деплоем за полчаса,https://habr.com/ru/companies/amvera/articles/833588/
+2024-08-04,Автостопом по мультиплееру. Часть 3: Клиент и Сервер,https://habr.com/ru/articles/833612/
+2024-08-04,4 августа 2024 года. Новолуние,https://habr.com/ru/articles/833610/
+2024-08-03,Миграция СУБД Oracle с RISC на Linux-x86 с помощью кроссплатформенных переносимых табличных пространств — Часть 1,https://habr.com/ru/articles/833594/
+2024-08-03,Звездные битвы: Талли-Фишер против Кеплера,https://habr.com/ru/articles/833590/
+2024-08-03,Reverse engineering конкурсных списков поступления на бюджет в вузы России,https://habr.com/ru/articles/833586/
+2024-08-03,Крупица истины в безумном заявлении «в России нет и не может быть чипов» и что из нее следует,https://habr.com/ru/articles/833568/
+2024-08-03,Чиним замедление YouTube на уровне роутера,https://habr.com/ru/articles/833564/
+2024-08-03,Уникальный смартфон-UMPC из нулевых: как HTC сделала устройство с двумя независимыми процессорами на борту?,https://habr.com/ru/companies/timeweb/articles/833258/
+2024-08-03,Уход к дообучению моделей? Исследователи и технологии Character.ai выкуплены Google,https://habr.com/ru/articles/833558/
+2024-08-03,Помните Skype? Microsoft собирается вернуть ему былую популярность,https://habr.com/ru/companies/selectel/articles/833266/
+2024-08-03,Как нас обманывают геймдизайнеры: невыдуманные истории про скрытые игровые механики,https://habr.com/ru/articles/833552/
+2024-08-03,Специальная теория относительности – пролог к теории гравитации с принципом Маха,https://habr.com/ru/articles/833530/
+2024-08-03,4 тысячи заметок?! Как я веду личную базу знаний в Obsidian,https://habr.com/ru/articles/833550/
+2024-08-03,"Ещё раз о том, какого размера должны быть тесты",https://habr.com/ru/companies/timeweb/articles/833548/
+2024-08-03,Продвинутые сетевые функции Kubernetes,https://habr.com/ru/companies/amvera/articles/833464/
+2024-08-03,"Что на неделе: москвичи-айтишники без квартир, блогеры-ютуберы без площадки, треш-стримеры без работы",https://habr.com/ru/companies/agima/articles/833466/
+2024-08-03,Проблема мусорных отходов в России и пути ее решения Часть2. Многоразовое и повторное использование,https://habr.com/ru/articles/833542/
+2024-08-03,Механика окружающей среды в фентезийном мире,https://habr.com/ru/articles/833540/
+2024-08-03,"За что мы любим (пост)апокалипсис? Часть 4: мутанты, радиация и мрачнеющие краски атомного армагеддона",https://habr.com/ru/companies/ruvds/articles/833366/
+2024-08-03,Звёзды могут пережить превращение своего партнёра в сверхновую,https://habr.com/ru/articles/833506/
+2024-08-03,Как проходить онбординг? С точки зрения работника,https://habr.com/ru/articles/833536/
+2024-08-03,"5 книг, которые стоит почитать начинающему ИТ-архитектору",https://habr.com/ru/companies/ru_mts/articles/833432/
+2024-08-03,Обход замедления для Android TV,https://habr.com/ru/articles/833508/
+2024-08-03,Лучшие практики для Unity 3D проекта,https://habr.com/ru/articles/833532/
+2024-08-03,Куратор для нового сотрудника. Делимся списком для начала работы с новичком,https://habr.com/ru/articles/833502/
+2024-08-03,"Нагрузочное тестирование EVPN-MPLS на маршрутизаторах MR-381 от B4COM. Методика, результаты и выводы",https://habr.com/ru/articles/833526/
+2024-08-03,"RLHF. История становления идеи — 3. Supervised finetune, Протокольный сбор обратной связи, Batch RL",https://habr.com/ru/articles/832736/
+2024-08-03,Создание кастомного интерактивного одностраничного минисайта с ИИ без платных сервисов,https://habr.com/ru/articles/833520/
+2024-08-03,OpenSource на поле против OpenAI:  Function Calls здесь и сейчас для самых маленьких… ресурсов,https://habr.com/ru/articles/833518/
+2024-08-03,OpenSource на поле против OpenAI:  Function Calls здесь и сейчас для самых маленьких… ресурсов,https://habr.com/ru/articles/833518/
+2024-08-02,Интеграция clang-format в Процесс Сборки,https://habr.com/ru/articles/833500/
+2024-08-02,Логистика. Часть 8. Почему GDS лидируют в оптимизации авиаперевозок: пример увеличения прибыльности код-шера,https://habr.com/ru/articles/833492/
+2024-08-02,Опыт по установке SLA с помощью инструментов Канбан метода: история сервисных команд,https://habr.com/ru/articles/833490/
+2024-08-02,Кэш второго уровня Hibernate для чайников,https://habr.com/ru/articles/833478/
+2024-08-02,Punk riff generator,https://habr.com/ru/articles/831852/
+2024-08-02,"Тестируем SSD. Чтобы выросли IOPS, нужно всего лишь… сменить версию PCIe?",https://habr.com/ru/companies/cdnnow/articles/833418/
+2024-08-02,Как поделить не деля или оптимизация деления компиляторам(и),https://habr.com/ru/articles/833470/
+2024-08-02,Отличия разработки на VBA для MS Excel по сравнению JavaScript для Р7-Офис,https://habr.com/ru/articles/833460/
+2024-08-02,Лжемарина I,https://habr.com/ru/articles/833458/
+2024-08-02,"Он сделал копию криптовалютной биржи на флешке, удалил данные с сервера и исчез",https://habr.com/ru/articles/833456/
+2024-08-02,Давайте сделаем крупное приложение на Flask (язык Python),https://habr.com/ru/articles/833446/
+2024-08-02,Что расскажут аналитикам на Flow 2024 Autumn,https://habr.com/ru/companies/jugru/articles/833440/
+2024-08-02,Object Pascal в 2024-м,https://habr.com/ru/articles/832686/
+2024-08-02,"Такое разное газомоторное топливо. Почему автомобили ездят на сжиженном газе, а не на сжатом?",https://habr.com/ru/articles/833274/
+2024-08-02,Шаблон unit-тестов на Go,https://habr.com/ru/articles/833448/
+2024-08-02,Использование очередей (Queue/Deque) для решения алгоритмических задач на Java,https://habr.com/ru/articles/833444/
+2024-08-02,"Как мы прогнозируем спрос на заказы в Яндекс Лавке, чтобы эффективнее распределить нагрузку на курьеров. Доклад Яндекса",https://habr.com/ru/companies/yandex/articles/831534/
+2024-08-02,Топ самых интересных CVE за июль 2024 года,https://habr.com/ru/companies/tomhunter/articles/828932/
+2024-08-02,Scala Digest. Выпуск 19,https://habr.com/ru/companies/tbank/articles/833394/
+2024-08-02,Нужна ли разработчикам магистратура? Отвечают студенты программы «Распределенные веб-сервисы»,https://habr.com/ru/companies/vk/articles/833436/
+2024-08-02,Основы тестирования React-приложений через Cypress,https://habr.com/ru/companies/otus/articles/831904/
+2024-08-02,Какую зарплату просить начинающему IT-специалисту на собеседовании,https://habr.com/ru/companies/habr_career/articles/833388/
+2024-08-02,Этапы формирования навыков программирования,https://habr.com/ru/articles/833426/
+2024-08-02,История оптимизации Python сервиса: пара простых системных улучшений,https://habr.com/ru/companies/oleg-bunin/articles/833424/
+2024-08-02,"Теория, практика и личный опыт в обучении IT-управленцев",https://habr.com/ru/companies/otus/articles/833422/
+2024-08-02,"Процесс, который продолжал умирать",https://habr.com/ru/companies/ruvds/articles/832752/
+2024-08-02,Топ добавок для повышения работоспособности и энергии,https://habr.com/ru/articles/833414/
+2024-08-02,Несовпадение целей: Не проблема для успешной реализации проектов,https://habr.com/ru/articles/833410/
+2024-08-02,Высокая доступность в Kubernetes,https://habr.com/ru/companies/slurm/articles/833408/
+2024-08-02,Как приручить дракона. Пара примеров из жизни,https://habr.com/ru/companies/ru_mts/articles/833374/
+2024-08-02,Ограниченное использование программ — или шифровальщик,https://habr.com/ru/articles/833168/
+2024-08-02,"Чтение на выходные: «Наука, не-наука и все-все-все» Ричарда Фейнмана",https://habr.com/ru/companies/onlinepatent/articles/833146/
+2024-08-02,"Дискеты в наше время: Япония победила их в 2024, метро Сан-Франциско будет использовать до 2030",https://habr.com/ru/companies/productstar/articles/833398/
+2024-08-02,Полный гайд по тестированию на Flutter. Часть 5: Mocktail,https://habr.com/ru/articles/833390/
+2024-08-02,Как мы помогли клиентам автоматически настраивать программы для работы с КЭП,https://habr.com/ru/companies/ca_kontur/articles/833332/
+2024-08-02,Эксперимент — зашифрованные ИТ-процессы в фильме «TRON: Legacy» как ключ к обучению,https://habr.com/ru/articles/833378/
+2024-08-02,Все дороги ведут домой или почему я уехал из Лондонского FAANG,https://habr.com/ru/articles/833372/
+2024-08-02,Как мы приготовили Feature-Sliced Design в VK,https://habr.com/ru/companies/vk/articles/831148/
+2024-08-02,Как уменьшить процент неквалифицированных лидов на вашем лендинге: простые и эффективные методы,https://habr.com/ru/articles/833368/
+2024-08-02,Roadmap: как рынок хостинга трансформировался в рынок облаков,https://habr.com/ru/companies/runity/articles/833298/
+2024-08-02,Как мы апгрейднули поисковик в приложении Купера с помощью fastText и XGBRanker,https://habr.com/ru/companies/kuper/articles/832762/
+2024-08-02,TMS Test IT: польза и лайфхаки для мануальных тестировщиков,https://habr.com/ru/articles/833360/
+2024-08-02,Настройка на роутерах Keenetic отдельной WiFi сети с внешним подключением через WireGuard,https://habr.com/ru/articles/833358/
+2024-08-02,"Нейромедиаторы! Как помогают не выгорать, достигать цели, быть счастливым?",https://habr.com/ru/companies/otpbank/articles/833178/
+2024-08-02,Программируем микроконтроллер STM32 на Rust,https://habr.com/ru/companies/piter/articles/833344/
+2024-08-02,Как организовать две большие съемки для стартапа из 10 человек за 5к рублей?,https://habr.com/ru/companies/nfckey/articles/832558/
+2024-08-02,Что такое Python и с чем его едят,https://habr.com/ru/articles/833356/
+2024-08-02,Тестирование светодиодной лампы polaroid 10Вт — важен не только свет,https://habr.com/ru/articles/833352/
+2024-08-02,Как я внедрял SOAR: в чем разница In-house- и Outsourced-подходов,https://habr.com/ru/companies/ussc/articles/833348/
+2024-08-02,Симметрии модели числа. Часть III,https://habr.com/ru/articles/833072/
+2024-08-02,5 уроков локализации из разработки игры в Telegram,https://habr.com/ru/companies/miip/articles/832950/
+2024-08-02,История марсохода Mars Pathfinder: новый взгляд на красную планету,https://habr.com/ru/companies/first/articles/833346/
+2024-08-02,Как использовать сервисы Google на смартфонах Huawei с помощью Gbox и MicroG,https://habr.com/ru/companies/x-com/articles/833338/
+2024-08-02,Лицемерие найма: как HR-ы сами не соблюдают свои же требования?,https://habr.com/ru/articles/833336/
+2024-08-02,Однокаскадный ламповый усилитель для квартирной музыки,https://habr.com/ru/companies/ruvds/articles/830416/
+2024-08-02,Как подготовиться к запуску интернет-магазина,https://habr.com/ru/articles/832192/
+2024-08-02,Как успешно бороться с инцидентами в ИТ-сфере,https://habr.com/ru/articles/833320/
+2024-08-02,Аналоговый «Цифрал». Оживляем самый простой домофон на дискретной логике,https://habr.com/ru/companies/timeweb/articles/830516/
+2024-08-02,"Различные вычисления, многопоточность, асинхронность и мультипроцессность в Python",https://habr.com/ru/companies/sberbank/articles/829098/
+2024-08-02,Так ли бесплатен Open Source: подводные камни ИБ-инструментов с открытым исходным кодом,https://habr.com/ru/companies/swordfish_security/articles/833172/
+2024-08-02,"12 вместо 100+, или Как быстро и удобно создать базовый интерфейс для ОС [статья-воркшоп]",https://habr.com/ru/companies/kaspersky/articles/826746/
+2024-08-02,"«1С: Шина» VS DATAREON: что выбрать, чтобы настроить обмен между системами",https://habr.com/ru/articles/833312/
+2024-08-02,"12 важных веб-сайтов, о которых должен знать каждый программист",https://habr.com/ru/articles/833300/
+2024-08-02,Полгода тестировал реферальную программу от Ростелекома. Полный обзор платформы + сколько можно заработать,https://habr.com/ru/articles/833296/
+2024-08-02,.NET Digest #2,https://habr.com/ru/companies/pvs-studio/articles/833292/
+2024-08-02,"Геймплей, новый контент, мир на 30% больше. Интервью с создателями Gothic 1 Remake",https://habr.com/ru/companies/mvideo/articles/833176/
+2024-08-02,Аромат и контекст: восприятие запахов в условиях МКС,https://habr.com/ru/companies/ua-hosting/articles/831280/
+2024-08-02,Создание общего списка описаний и объединение людей,https://habr.com/ru/articles/833290/
+2024-08-02,Оптимизация производительности в Unity: советы и лучшие практики,https://habr.com/ru/articles/833086/
+2024-08-02,Релиз Jmix 2.3: что нового?,https://habr.com/ru/companies/haulmont/articles/833280/
+2024-08-02,Ультимативный ресурс по программированию: сборник бесплатных чит-листов по программированию,https://habr.com/ru/articles/833278/
+2024-08-02,"Новее, мощнее и лучше: одноплатник Orange Pi 5 Max. Что за устройство?",https://habr.com/ru/companies/selectel/articles/832938/
+2024-08-02,Google прекращает поддержку сокращателя ссылок Goo.gl. Миллионы коротких адресов станут бесполезны,https://habr.com/ru/companies/ru_mts/articles/833240/
+2024-08-02,Эффективные запросы к ChatGPT и подобным моделям: Полное руководство по идеальной формуле,https://habr.com/ru/articles/833234/
+2024-08-01,Перевод статьи «Injecting Java in-memory payloads for post-exploitation»,https://habr.com/ru/articles/833262/
+2024-08-01,Разработка для заводов. Как это было,https://habr.com/ru/articles/833242/
+2024-08-01,Подготовка к IELTS: устная часть,https://habr.com/ru/articles/833238/
+2024-08-01,Старый трансивер эфир не испортит. Часть 2. Восстановление и наладка,https://habr.com/ru/articles/826102/
+2024-08-01,"10 бесплатных курсов и мастер-классов, которые стоит пройти в августе",https://habr.com/ru/companies/netologyru/articles/833050/
+2024-08-01,"Git, Gitflow и ветка develop. Продолжаем разбираться в основах программирования",https://habr.com/ru/companies/beeline_cloud/articles/833228/
+2024-08-01,"Уязвимости Laravel, технология Cookieless и Kerberos-лапша, или Рассказ о том, как мы IDS Bypass 5 решали",https://habr.com/ru/companies/pt/articles/832612/
+2024-08-01,Безопасность CI/CD,https://habr.com/ru/companies/otus/articles/831962/
+2024-08-01,Тестирование BMC: Автоматизировать! Нельзя все руками,https://habr.com/ru/companies/aquarius/articles/833210/
+2024-08-01,"Мы построили бесконечный винный фонтан своими руками, потратив всего 6000 рублей. Рассказываю, из чего он сделан",https://habr.com/ru/companies/agima/articles/833204/
+2024-08-01,Метрики DORA: Мы их неправильно используем,https://habr.com/ru/companies/otus/articles/833200/
+2024-08-01,1 августа и COBOL: как они связаны?,https://habr.com/ru/companies/ru_mts/articles/833188/
+2024-08-01,Интервью с Вадимом Саркисяном —  руководителем отдела IT-инфраструктуры МоегоСклада,https://habr.com/ru/companies/moysklad/articles/833190/
+2024-08-01,Где жить в городе именно вам? Персонализированный сервис подбора идеальных домов,https://habr.com/ru/articles/833186/
+2024-08-01,«Мы вам (не) перезвоним». Кого не берут в ИТ?,https://habr.com/ru/companies/neimark/articles/833056/
+2024-08-01,WAF или не WAF? Дайте два! Решаем вопрос защиты веб-приложений,https://habr.com/ru/companies/k2tech/articles/833170/
+2024-08-01,Оценка инсайда в ставках на спорт,https://habr.com/ru/articles/833174/
+2024-08-01,Эмиттерный повторитель — ключ к пониманию работы транзисторных каскадов,https://habr.com/ru/companies/ruvds/articles/832252/
+2024-08-01,Сравнение Recraft и Adobe Illustrator,https://habr.com/ru/articles/833128/
+2024-08-01,Юзабилити систем,https://habr.com/ru/articles/833004/
+2024-08-01,"Selenoid без симуляции: настройка, отладка и автоматизация на физическом Android-устройстве",https://habr.com/ru/companies/alfa/articles/833136/
+2024-08-01,BLE под микроскопом. Андроид. Часть3,https://habr.com/ru/articles/829258/
+2024-08-01,"Почему комментарии в коде — базовый инструмент, упрощающий поддержку и развитие проекта",https://habr.com/ru/companies/simbirsoft/articles/833040/
+2024-08-01,"Интеграционная платформа в The Platform: что умеет, как работает и зачем ей Workflow Engine",https://habr.com/ru/companies/ru_mts/articles/832932/
+2024-08-01,Права на программу для ЭВМ,https://habr.com/ru/articles/833150/
+2024-08-01,Делаем Телеграм-бота техподдержки с CRM и плюшками за 15 минут,https://habr.com/ru/articles/833144/
+2024-08-01,Помогаем приложению Kyocera увидеть сканер из-под доменного пользователя,https://habr.com/ru/companies/petrovich-tech/articles/833138/
+2024-08-01,"История Amazon: книготорговец, который стал миллиардером",https://habr.com/ru/companies/onlinepatent/articles/833142/
+2024-08-01,"Не хомяком единым: игры-кликеры, чьи бренды мошенники используют для угона аккаунтов или кражи крипты",https://habr.com/ru/companies/f_a_c_c_t/articles/833140/
+2024-08-01,Как организовать анализ большого объема данных в реальном времени,https://habr.com/ru/companies/vk/articles/832584/
+2024-08-01,Повышаем читаемость Symfony DI,https://habr.com/ru/articles/833134/
+2024-08-01,История Same Origin Policy,https://habr.com/ru/articles/833132/
+2024-08-01,Коротко про IT: что нужно знать на старте,https://habr.com/ru/companies/sportmaster_lab/articles/832774/
+2024-08-01,Генерация HTTP клиентов для Spring Boot приложения по OpenAPI спецификации,https://habr.com/ru/companies/spring_aio/articles/833096/
+2024-08-01,"Не хочу работать никем и никогда: что делать, чтобы ваш сотрудник так не сказал",https://habr.com/ru/articles/833126/
+2024-08-01,Адаптивная верстка на React Native,https://habr.com/ru/articles/833124/
+2024-08-01,"Депрессия, мотивация, физическая активность. Первые попытки объяснить связь",https://habr.com/ru/articles/833114/
+2024-08-01,Техподдержка по Достоевскому: «Тварь ли я дрожащая или право имею?»,https://habr.com/ru/articles/833112/
+2024-08-01,"Я стала руководителем. Что делать? Статья для тех, кому сложно в новой роли",https://habr.com/ru/articles/833110/
+2024-08-01,Polling vs Websockets (с примерами на React хуках),https://habr.com/ru/articles/833104/
+2024-08-01,Главная помеха стать лучшей версией себя,https://habr.com/ru/articles/833100/
+2024-08-01,Bug Bounty для новичков: зачем компании платят за взлом своих продуктов и как в этом поучаствовать,https://habr.com/ru/companies/skillfactory/articles/832870/
+2024-08-01,"Генерация Фракталов методом хаоса, UI на ScalaFX",https://habr.com/ru/articles/832872/
+2024-08-01,Hreflang теги для SEO,https://habr.com/ru/articles/833094/
+2024-08-01,HowTo: базовая геоаналитика,https://habr.com/ru/articles/833090/
+2024-08-01,Карманный осциллограф на микроконтроллере STC 8051,https://habr.com/ru/companies/ruvds/articles/831634/
+2024-08-01,"Спидран в реальности: история робота, который быстрее всех в мире собирает кубик Рубика",https://habr.com/ru/companies/yandex/articles/831708/
+2024-08-01,10 certain indicators of a well-done UX design,https://habr.com/ru/articles/833076/
+2024-08-01,Вычисление любого математического выражения в C# (.NET),https://habr.com/ru/articles/833074/
+2024-08-01,Хакатоны в России: август и сентябрь 2024 / Призы и офферы ждут тебя,https://habr.com/ru/articles/833070/
+2024-08-01,Лучшие доклады последних FPGA-Systems: от выбора стратегии верификации до Quake 2 на RISC-V,https://habr.com/ru/companies/yadro/articles/830574/
+2024-08-01,"Издательство Питер. Колонка редактора, август 24 г",https://habr.com/ru/companies/piter/articles/832578/
+2024-08-01,Настраиваем approve rules для merge request в бесплатной версии GitLab CE,https://habr.com/ru/companies/nixys/articles/822329/
+2024-08-01,DRY-фреймворк: как сократить HTML-код и писать только на CSS,https://habr.com/ru/companies/selectel/articles/832868/
+2024-08-01,Паяльник как инструмент опрощения и для атмосферы общения,https://habr.com/ru/articles/833060/
+2024-08-01,Cтейт-менеджмент на Flutter. Введение в Bloc,https://habr.com/ru/articles/833054/
+2024-08-01,Как метрики приживаемости помогают внедрению IT-проекта,https://habr.com/ru/companies/pgk/articles/831350/
+2024-08-01,Через аркадные автоматы к облаку: как GPU принес счастье,https://habr.com/ru/companies/mws/articles/832886/
+2024-08-01,Свой контроллер для Oculus Quest 2 на ESP32,https://habr.com/ru/articles/831228/
+2024-08-01,Kin’а не будет. Как Microsoft потеряла миллиард на смартфоне для соцсетей,https://habr.com/ru/companies/serverspace/articles/832816/
+2024-08-01,Как советская машина всех в шахматы обыграла,https://habr.com/ru/companies/gazprombank/articles/832810/
+2024-08-01,Разработка Java-проекта с ChatGPT-4: от идеи до реализации,https://habr.com/ru/companies/ibs/articles/833034/
+2024-08-01,Геймификация и управление персоналом,https://habr.com/ru/companies/securityvison/articles/833044/
+2024-08-01,Полный гайд по тестированию на Flutter. Часть 4: продвинутое модульное тестирование,https://habr.com/ru/articles/832918/
+2024-08-01,Математическая модель робота KUKA в программе «Repeat»,https://habr.com/ru/articles/833038/
+2024-08-01,Как Intel Core i5-12400F и AMD Ryzen 5 8400F ведут себя в играх и какой процессор лучше взять для геймерского ПК,https://habr.com/ru/companies/x-com/articles/833036/
+2024-08-01,Как положить приложение 21 запросом* к /actuator/health,https://habr.com/ru/articles/832568/
+2024-08-01,Между строк: Анимации в UI Toolkit,https://habr.com/ru/articles/832798/
+2024-08-01,"(Не) безопасный дайджест: Угон Pepe и Shib коинов, Disney под атакой, а также слив данных миллионов американцев",https://habr.com/ru/companies/searchinform/articles/832724/
+2024-08-01,Настройка аутентификации с одноразовым паролем в OpenAM,https://habr.com/ru/articles/825306/
+2024-08-01,Как фрилансерам и компаниям работать на Upwork в обход блокировок в 2024 году,https://habr.com/ru/articles/832332/
+2024-08-01,«Часть Команды — часть Корабля». Или почему негативные роли могут быть в каждой команде,https://habr.com/ru/articles/833026/
+2024-08-01,Некоторые ошибки при создании дашбордов в BI-системах и как их избежать с помощью UX,https://habr.com/ru/articles/831010/
+2024-08-01,Карантин! Инфицируем .NET-сборки как настоящий APT,https://habr.com/ru/companies/ru_mts/articles/832892/
+2024-08-01,Программисту легко оторваться от реальной бизнес-задачи,https://habr.com/ru/articles/833020/
+2024-08-01,ТОП ошибок тех. интервьюеров,https://habr.com/ru/articles/832660/
+2024-08-01,Бионический протез руки: Контекстное поведение протеза,https://habr.com/ru/articles/832688/
+2024-07-31,Разговор с ИИ про трудную проблему сознания,https://habr.com/ru/articles/832998/
+2024-07-31,Берём под контроль TODO-шки в коде php,https://habr.com/ru/articles/832994/
+2024-07-31,Введение в MLflow,https://habr.com/ru/companies/ods/articles/828458/
+2024-07-31,Как фронтендер сертификацию PostgresPro сдавал,https://habr.com/ru/articles/832956/
+2024-07-31,Gradle + GitLab: эффективный и бесплатный билд-кэш,https://habr.com/ru/articles/832976/
+2024-07-31,Как попасть в геймдев: истории успеха и практические советы,https://habr.com/ru/companies/miip/articles/832970/
+2024-07-31,Управление эмоциями или как справиться с выгоранием на работе,https://habr.com/ru/articles/832958/
+2024-07-31,Тест батареек Gigacell Super Alkaline,https://habr.com/ru/companies/lamptest/articles/832952/
+2024-07-31,Как безопасно авторизироваться в веб-сервисе через скомпрометированное устройство?,https://habr.com/ru/articles/832942/
+2024-07-31,"Асинхронный телеграм бот на bash, глазами C# программиста",https://habr.com/ru/articles/832934/
+2024-07-31,Цифровая крепость: как защитить себя в мире киберугроз,https://habr.com/ru/articles/832928/
+2024-07-31,Сглаживание битовых изображений,https://habr.com/ru/articles/832924/
+2024-07-31,Как мы подключили автоотклики к hh.ru,https://habr.com/ru/articles/832916/
+2024-07-31,"Combat Abilities System — Расширение Gameplay Ability System в Unreal Engine, Часть 1",https://habr.com/ru/articles/832914/
+2024-07-31,Разработка иллюстраций для инструкций по сборке в CAD,https://habr.com/ru/articles/832910/
+2024-07-31,Почему физика Эйнштейна разрешает путешествия в прошлое,https://habr.com/ru/articles/832906/
+2024-07-31,Разгоняем C++ с кастомными аллокаторами,https://habr.com/ru/companies/otus/articles/830104/
+2024-07-31,Метод асимметрического тыка,https://habr.com/ru/companies/mipt/articles/832898/
+2024-07-31,GSN0727Z взгляд arduin'щика на RS-485,https://habr.com/ru/articles/832894/
+2024-07-31,Крутите колесо: как аспирант ИТМО ищет способ решить проблемы роботов на базе Mecanum колес и расширить их применение,https://habr.com/ru/companies/spbifmo/articles/832890/
+2024-07-31,"«Как черепашки и женитьба сделали из меня программиста»: история инженера, который построил международную компанию",https://habr.com/ru/companies/smartup_tech/articles/832888/
+2024-07-31,Формат описания идентификатора зависимости в JS DI,https://habr.com/ru/articles/832490/
+2024-07-31,Chromebook: жизнь после EOS,https://habr.com/ru/companies/ru_mts/articles/832790/
+2024-07-31,Оптимизация запросов к нейросетям: стратегии и советы,https://habr.com/ru/articles/832882/
+2024-07-31,Сколько денег вы теряете на инцидентах,https://habr.com/ru/companies/skyeng/articles/832600/
+2024-07-31,"Сосиски, прокладки и нержавеющая сталь: патенты времен Первой мировой войны",https://habr.com/ru/companies/onlinepatent/articles/832874/
+2024-07-31,Защищаем приложение в облаке от DDoS-атак: взгляд со стороны провайдера и клиента,https://habr.com/ru/companies/cloud_ru/articles/832412/
+2024-07-31,"Находим случайный seed, решающий задачу с LeetCode",https://habr.com/ru/companies/ruvds/articles/832748/
+2024-07-31,"Думаете, вы всё знаете о box shadows?",https://habr.com/ru/articles/830902/
+2024-07-31,Вызов функций с помощью LLM,https://habr.com/ru/companies/mts_ai/articles/831220/
+2024-07-31,Мои эксперименты с искусственной жизнью,https://habr.com/ru/articles/832862/
+2024-07-31,"FreeIPA tips & tricks: перенос FreeIPA из LXC-контейнера CentOS 7 в Rocky Linux, дебаг и истекшие сертификаты",https://habr.com/ru/companies/aenix/articles/832820/
+2024-07-31,Как вырастить корпоративный сервис в клиентский продукт,https://habr.com/ru/companies/ca_kontur/articles/832836/
+2024-07-31,Красное смещение: доплер-эффект или гравитация?,https://habr.com/ru/articles/832808/
+2024-07-31,Программное создание материалов с пользовательскими полями в Joomla 5+,https://habr.com/ru/articles/832854/
+2024-07-31,Итоговый интерьер Атома опубликован,https://habr.com/ru/companies/atom/articles/832852/
+2024-07-31,Разбираемся с видеосистемой Super Nintendo,https://habr.com/ru/companies/cloud4y/articles/832846/
+2024-07-31,Поисковый запрос на баги в Apache Solr,https://habr.com/ru/companies/pvs-studio/articles/832842/
+2024-07-31,Мониторинг высоконагруженных систем: ускоряем обработку тысяч событий с обработчиками автоматизации в мониторинге Monq,https://habr.com/ru/companies/monq/articles/832602/
+2024-07-31,Chrome 127 — опять «пиратим» для Windows 7,https://habr.com/ru/articles/832834/
+2024-07-31,ThreadPool – инъекция потоков,https://habr.com/ru/companies/skbkontur/articles/832742/
+2024-07-31,"Линейная регрессия, решётчатые функции и типовые динамические звенья",https://habr.com/ru/articles/832838/
+2024-07-31,Как мы провели производственную практику для 150 студентов и зачем нам это нужно,https://habr.com/ru/companies/reksoft/articles/832826/
+2024-07-31,Computed сигналы и ChangeDetection — подробный разбор,https://habr.com/ru/articles/832520/
+2024-07-31,Симметрии модели числа. Часть II,https://habr.com/ru/articles/832534/
+2024-07-31,Восстановление учетных записей в Carbonio,https://habr.com/ru/companies/Zextras/articles/832720/
+2024-07-31,Как мы написали конкурентные структуры данных на C++ и научились их верифицировать,https://habr.com/ru/companies/vk/articles/829706/
+2024-07-31,Как использовать S3-хранилище в Kubernetes: руководство с примерами,https://habr.com/ru/companies/selectel/articles/832768/
+2024-07-31,Самый простой способ проверить работу веб-приложения под нагрузкой на примере JMeter и Grafana,https://habr.com/ru/companies/yoomoney/articles/832574/
+2024-07-31,"ПромоСтраницы сегодня: подробный гайд для тех, кому надо",https://habr.com/ru/articles/832832/
+2024-07-31,Toshiba T-1000,https://habr.com/ru/articles/832814/
+2024-07-31,Виртуальная лаборатория робототехники или Как мы выбирали подходящее ПО,https://habr.com/ru/articles/832812/
+2024-07-31,Почему нельзя взять и перевести сервер с корпоративной системой на Linux и Postgres,https://habr.com/ru/companies/haulmont/articles/832784/
+2024-07-31,Как организованы DDoS-атаки на банки. И не только. На пальцах,https://habr.com/ru/companies/ddosguard/articles/832560/
+2024-07-31,Как спланировать отпуск с помощью фреймворка стратегического управления в жизни?,https://habr.com/ru/articles/832800/
+2024-07-31,Записки о спамерах – 2023: небинарность на службе «солидного» бизнеса,https://habr.com/ru/articles/832794/
+2024-07-31,Человек мухлюющий — читы в гейм-индустрии. Часть 1: Ландшафт читерства и методы борьбы с читами,https://habr.com/ru/companies/serverspace/articles/832300/
+2024-07-31,Разбираем email по косточкам,https://habr.com/ru/companies/T1Holding/articles/832780/
+2024-07-31,Как устроены условные точки останова,https://habr.com/ru/companies/piter/articles/832564/
+2024-07-31,Установка Ubuntu 24.04 с полным шифрованием диска и использованием TPM,https://habr.com/ru/articles/832782/
+2024-07-31,"Мистическая эвереттика Менского-Лебедева: активное сознание, вероятностные чудеса и склейки миров",https://habr.com/ru/articles/832770/
+2024-07-31,Kenbak-1: самая первая серийная персоналка,https://habr.com/ru/companies/ruvds/articles/831834/
+2024-07-31,Более половины околоземных объектов могут быть «тёмными кометами»,https://habr.com/ru/articles/832640/
+2024-07-31,Проклятие знания. Как когнитивные искажения влияют на разработку?,https://habr.com/ru/companies/first/articles/832394/
+2024-07-31,Звездный час Зодиак АйТиЭм: тестируем российский аналог Microsoft SCCM,https://habr.com/ru/companies/k2tech/articles/832740/
+2024-07-31,Командуем Алисой и ее Умным Домом с Apple Watch и других устройств Apple,https://habr.com/ru/articles/832738/
+2024-07-31,ML в маркетинге: как модели делают банк более чутким к негативу,https://habr.com/ru/companies/tbank/articles/832580/
+2024-07-31,Сложно о простом. Сетевой уровень (L3) модели OSI,https://habr.com/ru/companies/timeweb/articles/830178/
+2024-07-31,Пузырь Big Tech: как с этим бороться,https://habr.com/ru/companies/ispsystem/articles/832726/
+2024-07-31,House Flipper в реальной архитектуре: как специалисты проектируют что угодно в цифровом симуляторе,https://habr.com/ru/companies/pik_digital/articles/832526/
+2024-07-31,Они управляют большими данными в финтехе. Как мы находим топовых специалистов по DWH,https://habr.com/ru/companies/clevertec/articles/831434/
+2024-07-31,"2-опережающий предсказатель ветвлений в процессоре Zen 5: тридцатилетняя идея, которая до сих пор развивается",https://habr.com/ru/articles/832718/
+2024-07-31,"Алюминий, морская вода и кофеин: производство водорода",https://habr.com/ru/companies/ua-hosting/articles/832408/
+2024-07-31,Оптимизация Gunicorn для быстрых клиентов,https://habr.com/ru/articles/832712/
+2024-07-31,"Seiko UC-2000, умные часы из 1984 года",https://habr.com/ru/articles/832638/
+2024-07-31,Принципы проектирования программ и их отражение в спецификации на доработку ERP-системы,https://habr.com/ru/articles/832594/
+2024-07-31,Greenplum: эффективное хранение данных с Hybrid Storage,https://habr.com/ru/companies/yandex_cloud_and_infra/articles/831780/
+2024-07-31,"Акции, игры и роботы: будущее ритейла, которое уже наступило",https://habr.com/ru/specials/832604/
+2024-07-31,С заботой о CPU: как найти узкое горлышко и сконфигурировать Postgres Pro,https://habr.com/ru/companies/postgrespro/articles/830790/
+2024-07-31,"ИТ с пеленок: игры, которые знакомят детей с программированием. Часть 2",https://habr.com/ru/companies/ru_mts/articles/832698/
+2024-07-31,CI/CD Kubernetes платформа Gitorion. Highly Available кластер Kubernetes,https://habr.com/ru/companies/gitorion/articles/831178/
+2024-07-31,Моржовый оператор := в Python,https://habr.com/ru/articles/828566/
+2024-07-31,Как сбой CrowdStrike повлиял на авиацию,https://habr.com/ru/articles/832696/
+2024-07-31,Data Day 2024. Всё по полочкам. Секция 1,https://habr.com/ru/articles/832692/
+2024-07-31,Геймдев наносит ответный удар,https://habr.com/ru/articles/832670/
+2024-07-31,Как и зачем мы написали 5000 интеграционных тестов за пару часов,https://habr.com/ru/companies/avito/articles/832606/
+2024-07-31,Как создать самостоятельный ИИ,https://habr.com/ru/articles/832684/
+2024-07-31,Telegram x ChatGpt x Notion = Картотека Лумана [Low-code],https://habr.com/ru/articles/832680/
+2024-07-31,Замедление YouTube с технической стороны: ограничение и обход,https://habr.com/ru/articles/832678/
+2024-07-31,"Newbee торговый бот, часть третья: первые предсказания",https://habr.com/ru/articles/832672/
+2024-07-30,Опять Mikrotik и снова Telegram…,https://habr.com/ru/articles/832652/
+2024-07-30,Обучение в Яндекс Практикуме,https://habr.com/ru/articles/832656/
+2024-07-30,Основы типизации props в React,https://habr.com/ru/articles/832648/
+2024-07-30,Руководство по использованию Signal в Angular 17,https://habr.com/ru/articles/832632/
+2024-07-30,Raccoon Flash Explorer | Необычный программатор Spi Flash и i2c Eeprom,https://habr.com/ru/articles/832622/
+2024-07-30,Хостинг серверов для сайта. Сравнение недостатков VPS провайдеров. Антирейтинг 2024,https://habr.com/ru/articles/832524/
+2024-07-30,Т-Банк (Тинькофф) Финтех: мой опыт обучения и попытка трудоустройства на позицию QA-инженера,https://habr.com/ru/articles/832620/
+2024-07-30,"MacBook Air M2 8/256 через 4 месяца: опыт использования в дизайне интерфейсов, офисных и личных задачах",https://habr.com/ru/articles/832618/
+2024-07-30,CurlFetch2Py – Эффективное преобразование CURL и FETCH команд в структурированные Python объекты,https://habr.com/ru/articles/832566/
+2024-07-30,Вы нас просили и мы сделали. VPN на собственном сервере с XRay Reality за 5 минут с помощью Amnezia,https://habr.com/ru/companies/amnezia/articles/832610/
+2024-07-30,Мобильный AI на рабочем месте. Ищем реальную ценность,https://habr.com/ru/companies/samsung/articles/832596/
+2024-07-30,"Windows — причина медленного интернета. Низкая скорость «загрузки», при нормальной скорости «скачивания»",https://habr.com/ru/articles/832100/
+2024-07-30,Как я писал простой язык конфигурации и в итоге перемудрил,https://habr.com/ru/articles/832586/
+2024-07-30,Какими силами закручиваются в вихри  разрушительные  смерчи и тропические ураганы?,https://habr.com/ru/articles/832582/
+2024-07-30,Погружение в матрицу: расширение RISC-V от T-Head,https://habr.com/ru/companies/yadro/articles/827434/
+2024-07-30,"MLSecOps: почему, зачем и кому это нужно?",https://habr.com/ru/companies/jetinfosystems/articles/832288/
+2024-07-30,Бот в блокноте — как я написал конструктор Телеграм-ботов для гуманитариев,https://habr.com/ru/articles/832570/
+2024-07-30,«У RISC-V впереди много проблем и ошибок»: прогноз Линуса Торвальдса,https://habr.com/ru/companies/ru_mts/articles/832562/
+2024-07-30,"Знать всё на свете нереально, но… Как система опросов помогает нам развивать HR-бренд",https://habr.com/ru/companies/agima/articles/832536/
+2024-07-30,TypeScript что нового 5.5. Перевод. Часть 1,https://habr.com/ru/articles/832556/
+2024-07-30,OSS: Революция в мире датчиков мониторинга окружающей среды,https://habr.com/ru/companies/scancode/articles/832554/
+2024-07-30,Через объектив игровой консоли,https://habr.com/ru/companies/ruvds/articles/830236/
+2024-07-30,Книга: «Data mesh в действии»,https://habr.com/ru/companies/piter/articles/832488/
+2024-07-30,Как тестировать UX-сценарии в сложных продуктах? Метод «домашки» для пользователей,https://habr.com/ru/companies/selectel/articles/832518/
+2024-07-30,Портируем видеоаналитику на новые платформы: 8 простых шагов,https://habr.com/ru/articles/832514/
+2024-07-30,Послеоперационные шрамы (рубцы) и их последствия для внешности и здоровья,https://habr.com/ru/articles/832440/
+2024-07-30,"Алгоритмическое мышление для дата-сайентистов: как писать код, который экономит время и место",https://habr.com/ru/companies/netologyru/articles/831160/
+2024-07-30,"Все, что вы хотели знать про иерархию инжекторов в Angular",https://habr.com/ru/companies/zyfra/articles/817843/
+2024-07-30,4 типовые ловушки в работе со строками в С и С++ и как их избежать,https://habr.com/ru/companies/ncloudtech/articles/830918/
+2024-07-30,"Пайплайны, разметка и версионирование — открытые решения для работы с неструктурированными данными",https://habr.com/ru/companies/mws/articles/832504/
+2024-07-30,Как мы построили две версии CJM и синхронизировали всю команду Ozon Банка с продуктом,https://habr.com/ru/companies/ozonbank/articles/832502/
+2024-07-30,Под куполом: разработка корпусов для отечественных купольных камер в НИЦ “Технологии”,https://habr.com/ru/articles/832500/
+2024-07-30,"Автоматизация оценки сотрудников – прощай, хаос",https://habr.com/ru/companies/rosbank/articles/832496/
+2024-07-30,Как компьютер оценивает внешнее состояние POS-терминалов,https://habr.com/ru/companies/sberbank/articles/832486/
+2024-07-30,Как протестировать и обезопасить почтовый сервер в Debian и Ubuntu с ispmanager,https://habr.com/ru/companies/ispmanager/articles/832452/
+2024-07-30,Насколько небезопасен Avast Secure Browser?,https://habr.com/ru/companies/bastion/articles/832470/
+2024-07-30,"OpenAI представила прототип поисковика SearchGPT, который может убить Google",https://habr.com/ru/companies/x-com/articles/832482/
+2024-07-30,"Астронавты с трудом едят космическую еду, и учёные хотят знать, почему",https://habr.com/ru/articles/832368/
+2024-07-30,"Отрицание, гнев, торг: как дизайну и разработке найти общий язык",https://habr.com/ru/companies/ozontech/articles/831818/
+2024-07-30,"Spring Boot Starter: практически, принципиально и подробнее. Часть 3",https://habr.com/ru/companies/ru_mts/articles/832468/
+2024-07-30,Быстрая оценка эффекта рекламы/события на ключевые показатели: Python + Causal Impact,https://habr.com/ru/articles/832466/
+2024-07-30,Пара укравшая миллиарды. Взлом Bitfinex,https://habr.com/ru/companies/ua-hosting/articles/832354/
+2024-07-30,Состояние российского рынка NGFW на 2024 год и немного больше,https://habr.com/ru/articles/832464/
+2024-07-30,Светящиеся конденсаторы и дисплеи на их основе (в том числе DIY) на любой поверхности? Почему нет…,https://habr.com/ru/companies/ruvds/articles/829756/
+2024-07-30,Редизайн Figma. Был ли он нужен?,https://habr.com/ru/companies/bimeister/articles/832460/
+2024-07-30,"Миграция неизбежна: сравниваем российские СУБД и open source, чтобы подготовиться",https://habr.com/ru/companies/k2tech/articles/832458/
+2024-07-30,Что необходимо знать разработчикам о технологическом комплексе для сборки ПО. Рассказываем об «Альт Платформе»,https://habr.com/ru/companies/basealtspo/articles/832456/
+2024-07-30,Soft Assertions в AssertJ,https://habr.com/ru/companies/spring_aio/articles/832432/
+2024-07-30,"Что такое MLSecOps, или Как безопасность искусственного интеллекта стала заботой DevSecOps",https://habr.com/ru/companies/pt/articles/832190/
+2024-07-30,Мощная рабочая машинка за 74.000руб: честный обзор ноутбука Ninkear N16 Pro,https://habr.com/ru/articles/829092/
+2024-07-30,"Продукт, который можно «пить»",https://habr.com/ru/companies/rostelecom/articles/832454/
+2024-07-30,"BitImageTool — пиктограммы для кнопок и панелек приложений, закодированные в ASCII",https://habr.com/ru/articles/832360/
+2024-07-30,Нехватка времени. Мои незавершенные проекты,https://habr.com/ru/companies/selectel/articles/831172/
+2024-07-30,"История Behance. От «блокнота», до самого популярного сайта среди дизайнеров | А давайте вспомним…",https://habr.com/ru/articles/832436/
+2024-07-30,Эволюция службы поддержки сотрудников: интерфейсы,https://habr.com/ru/companies/skbkontur/articles/831686/
+2024-07-30,Метрики продуктового дизайна в Домклик,https://habr.com/ru/companies/domclick/articles/828034/
+2024-07-30,Реанимация моноблока PC-III VGA Paper White Portablе,https://habr.com/ru/companies/timeweb/articles/831806/
+2024-07-30,Пишем плагин для Atlassian Jira — добавляем на экран задачи вкладку с логом автоматизаций,https://habr.com/ru/companies/samokat_tech/articles/815661/
+2024-07-30,Как стать разработчиком ML и нейронок,https://habr.com/ru/companies/slsoft/articles/832176/
+2024-07-30,"«Фууу, вы продаёте китайское» или Как мы с нуля организовали производство в Китае и почему это другое",https://habr.com/ru/articles/832356/
+2024-07-30,"Почему у интернет-магазина мало продаж? Ошибка №8 – онлайн-ресторан не знал, как увеличивать LTV клиентов, и нес убытки",https://habr.com/ru/companies/mako_digital/articles/832324/
+2024-07-30,Как ЦРУ незаметно украло (и вернуло) советский лунный спутник,https://habr.com/ru/articles/832346/
+2024-07-30,Цифровое бессмертие. Новый проект,https://habr.com/ru/articles/832422/
+2024-07-30,Прогноз ООН про пик численности населения,https://habr.com/ru/articles/832418/
+2024-07-30,"Менеджер проекта: что делать, если вам вручили белую каску",https://habr.com/ru/companies/lanit/articles/828520/
+2024-07-30,«Java – это язык синих воротничков»,https://habr.com/ru/companies/kryptonite/articles/832274/
+2024-07-30,"Поколение шепелявящих детей — что делать, если вы так выросли",https://habr.com/ru/companies/belayaraduga/articles/832338/
+2024-07-30,"Стратегия для бизнеса в 2025: что надо сделать, чтобы маркетинг не сгорел",https://habr.com/ru/articles/832414/
+2024-07-30,Рефакторинг игрового движка: от сырых указателей к умным,https://habr.com/ru/articles/826002/
+2024-07-30,"Как мы перешли с оффсетной пагинации на курсорную, или о проблемах динамической фильтрации",https://habr.com/ru/companies/zvuk/articles/831458/
+2024-07-30,"Выбираем профессию по душе: 3D-дизайнер. Кто это, что нужно уметь и сколько можно заработать?",https://habr.com/ru/articles/832374/
+2024-07-30,Как ускорить интеграцию API с помощью библиотеки и продвигать свои услуги,https://habr.com/ru/companies/exolve/articles/832136/
+2024-07-30,Отчет об исследовании работы Blazor в режиме Interactive SSR под нагрузкой многопользовательской игры CodeGenerator,https://habr.com/ru/articles/832322/
+2024-07-30,Инверсия управления Контейнеров и паттерн Инъекции Зависимостей — перевод,https://habr.com/ru/articles/832390/
+2024-07-30,Самый быстрый способ спросить ChatGPT (MacOS),https://habr.com/ru/articles/832070/
+2024-07-30,Shining 3D FreeScan Combo 3D-сканер: подробный обзор,https://habr.com/ru/companies/top3dshop/articles/832386/
+2024-07-30,Опыт автоматизации рутины: подсчет спецификации при помощи python,https://habr.com/ru/articles/822495/
+2024-07-30,"Замена Airtable и Bubble, мобильный конструктор сайтов – эти и другие российские стартапы",https://habr.com/ru/companies/productradar/articles/832244/
+2024-07-30,Математическая продлёнка. Вокруг ленты Мёбиуса,https://habr.com/ru/articles/832098/
+2024-07-30,5 лет на весах: личный опыт,https://habr.com/ru/articles/832382/
+2024-07-30,Apple Pro Weekly News (15.07 – 28.07.24),https://habr.com/ru/articles/832340/
+2024-07-30,Как россиянину открыть ИП или ООО в Беларуси в 2024 году?,https://habr.com/ru/articles/832376/
+2024-07-29,"Что вы задумали, мистер Дуров?",https://habr.com/ru/articles/832372/
+2024-07-29,AirPort Extreme: Root Доступ и избавление от региональной привязки,https://habr.com/ru/articles/832366/
+2024-07-29,Вселенная без Большого взрыва,https://habr.com/ru/articles/832358/
+2024-07-29,Миграция писем из Microsoft Exchange Server в Яндекс Почту,https://habr.com/ru/companies/yandex360/articles/831538/
+2024-07-29,Создание меню/кнопок в pyTelegramBotAPI на основе SQL запроса,https://habr.com/ru/articles/832342/
+2024-07-29,Kubernetes 1.31. Обзор обновления,https://habr.com/ru/companies/amvera/articles/832182/
+2024-07-29,Security Week 2431: PKfail или утечка приватных ключей Secure Boot,https://habr.com/ru/companies/kaspersky/articles/832234/
+2024-07-29,ASML до сих пор сотрудничает с Китаем. Теперь компании грозят экспортные ограничения,https://habr.com/ru/companies/ru_mts/articles/832328/
+2024-07-29,Дашборды в СКУД: визуализация данных для удобной аналитики на примере Grafana,https://habr.com/ru/companies/sigur/articles/832180/
+2024-07-29,Переезд в Италию по Digital Nomad,https://habr.com/ru/articles/832320/
+2024-07-29,Анализ конкурентов. Что стоит учитывать?,https://habr.com/ru/articles/832316/
+2024-07-29,Нейросети для написания текстов: обзор и сравнение моделей,https://habr.com/ru/companies/bothub/articles/831956/
+2024-07-29,"На меня трудится 1 000 работников, хотя они думают, что работают на себя",https://habr.com/ru/articles/832132/
+2024-07-29,Топ добавок для мощности,https://habr.com/ru/articles/832280/
+2024-07-29,Мастер-аккаунт Zeekr. Как Arduino поможет Вашему китайскому авто?,https://habr.com/ru/articles/828748/
+2024-07-29,Кастомные email-оповещения в Apache Airflow,https://habr.com/ru/companies/gazprombank/articles/832278/
+2024-07-29,"Долой рандом, или ищем лучшие настройки для аугментации текстов",https://habr.com/ru/companies/mts_ai/articles/832272/
+2024-07-29,Автоматизация интеграционных и приемочных тестов с помощью 1001 велосипеда,https://habr.com/ru/articles/832270/
+2024-07-29,"Как Илья Суцкевер создал искусственный интеллект, а затем научил нас его бояться",https://habr.com/ru/companies/onlinepatent/articles/832264/
+2024-07-29,Создание масштабируемых приложений при помощи Kafka и реактивного программирования,https://habr.com/ru/companies/piter/articles/831772/
+2024-07-29,Имплементация чисел с фиксированной точкой (часть 2),https://habr.com/ru/articles/832258/
+2024-07-29,React: одна любопытная особенность порталов,https://habr.com/ru/companies/timeweb/articles/828816/
+2024-07-29,Пишем за неделю 3D-редактор на C,https://habr.com/ru/companies/ruvds/articles/832168/
+2024-07-29,Тезисы подкаста «Между строк кода» выпуск о «Переходе в крупную IT-компанию: опыт и адаптация разработчика»,https://habr.com/ru/articles/832246/
+2024-07-29,"Контент-маркетинг — как я пишу по статье в день, что это дает и как не сдуться",https://habr.com/ru/articles/832042/
+2024-07-29,Реконсиляция в иерархическом прогнозировании временных рядов,https://habr.com/ru/companies/cinimex/articles/817817/
+2024-07-29,Дефолтная нейросеть. Что это?,https://habr.com/ru/articles/832236/
+2024-07-29,Cloud Native vs Cloud Agnostic в Data Engineering'е: выбираем подход,https://habr.com/ru/articles/829620/
+2024-07-29,«Уэбб» завершает второй год работы,https://habr.com/ru/articles/832206/
+2024-07-29,Работа SPI на MIK32 АМУР с платой ELBEAR ACE-UNO ревизии 1.0.1,https://habr.com/ru/articles/832228/
+2024-07-29,ИИ-модели ломаются при обучении на рекурсивно сгенерированных данных,https://habr.com/ru/companies/bothub/articles/832216/
+2024-07-29,СКУД: контроль доступа для большей безопасности,https://habr.com/ru/articles/832214/
+2024-07-29,Использование алгоритма бинарного поиска для нахождения квадратного корня числа на Java,https://habr.com/ru/articles/832212/
+2024-07-29,"Дайджест научпоп-новостей за неделю, о которых мы ничего не писали",https://habr.com/ru/articles/832198/
+2024-07-29,Сборка Debian пакетов для расширений PHP,https://habr.com/ru/companies/habr/articles/832058/
+2024-07-29,Как провести аудит процессов в новой команде: инструкция для руководителей,https://habr.com/ru/companies/kokocgroup/articles/832172/
+2024-07-29,"Как я в 35 пытался стать Python-разработчиком, и почему у меня [пока] ничего не вышло",https://habr.com/ru/articles/832186/
+2024-07-29,"Что делать, чтобы любопытство не сгубило кошку. Биохимия и инженерия. Guest Post",https://habr.com/ru/articles/832188/
+2024-07-29,XLand-100B: первый в мире большой датасет для контекстного обучения с подкреплением,https://habr.com/ru/companies/airi/articles/826224/
+2024-07-29,Базы данных. Основы разработки и работа с индексами в PostgreSQL,https://habr.com/ru/companies/factory5/articles/832174/
+2024-07-29,"Используем LLM, чтобы найти «бриллианты» в тексте",https://habr.com/ru/companies/inpglobal/articles/831760/
+2024-07-29,Эволюция API: от монолита к открытой платформе,https://habr.com/ru/companies/ascon/articles/832152/
+2024-07-29,OCSP всё?,https://habr.com/ru/articles/832170/
+2024-07-29,Цикл статей о Greenplum. Часть 2. Оптимальный DDL,https://habr.com/ru/companies/axenix/articles/832126/
+2024-07-29,Мы используем ИИ в формате эксперимента,https://habr.com/ru/companies/mvideo/articles/832160/
+2024-07-29,Turbo ML Conf 2024 — по следам,https://habr.com/ru/articles/832072/
+2024-07-29,Что из себя представляет российский литограф,https://habr.com/ru/companies/ruvds/articles/830716/
+2024-07-29,Как мы автоматизировали проверку электронных больничных листов,https://habr.com/ru/companies/fix_price/articles/832150/
+2024-07-29,Активоцентричность и хранение данных [Оголяемся технологически. MaxPatrol SIEM],https://habr.com/ru/companies/pt/articles/831106/
+2024-07-29,1400 строк кода без программирования: как я собрал ИИ-бота с помощью Claude,https://habr.com/ru/articles/832146/
+2024-07-29,Как я ремонтировал китайский планшет и что из этого вышло,https://habr.com/ru/companies/ru_mts/articles/832144/
+2024-07-29,Текстовые квесты… на Telegram,https://habr.com/ru/articles/829670/
+2024-07-29,"О создании системы, преобразующей текст в SQL для аналитиков Pinterest",https://habr.com/ru/companies/wunderfund/articles/832092/
+2024-07-29,Роскошный УКВ ЧМ супергетеродин на винтажных микросхемах,https://habr.com/ru/companies/first/articles/830222/
+2024-07-29,Множества Мандельброта — на Delphi,https://habr.com/ru/articles/831928/
+2024-07-29,"CAPTCHA сегодня: мало защиты, но много проблем",https://habr.com/ru/companies/selectel/articles/831980/
+2024-07-29,От дивана до переработок: как рушились мои сказочные представления об удаленке,https://habr.com/ru/companies/rshb/articles/832142/
+2024-07-29,«Ньютон» – мультитул для гитаристов. Часть 2,https://habr.com/ru/articles/832138/
+2024-07-29,Хабр и ЭКОПСИ исследуют IT-бренды Беларуси: ищем экспертов рынка и приглашаем в совет,https://habr.com/ru/companies/itbrand/articles/831462/
+2024-07-29,DevTools наносят ответный удар,https://habr.com/ru/articles/831978/
+2024-07-29,Как мы управляем секретами в Банки.ру: Vault HashiCorp и мечта об одной безопасной кнопке,https://habr.com/ru/companies/banki/articles/831510/
+2024-07-29,"Профессия сервис-менеджер. Истоки, суровая реальность и путь к созданию команды мечты",https://habr.com/ru/companies/k2tech/articles/831310/
+2024-07-29,Краткая история жанра. Шутеры,https://habr.com/ru/companies/miip/articles/831618/
+2024-07-29,"Продуктовое чтиво, или зачем менеджеру продукта собирать портфолио",https://habr.com/ru/articles/832036/
+2024-07-29,PostgreSQL 16. Страницы и версии строк. Часть 3,https://habr.com/ru/articles/830924/
+2024-07-29,Тысяча и одна библиотека С++,https://habr.com/ru/articles/831754/
+2024-07-29,"Недельный геймдев: #184 — 28 июля, 2024",https://habr.com/ru/articles/832116/
+2024-07-29,Аутентификация в SPA приложении через OpenAM используя OAuth2/OIDC,https://habr.com/ru/articles/796511/
+2024-07-29,"Универсальный базовый робо-доход, а также разборки по понятиям в Wildberries",https://habr.com/ru/articles/832110/
+2024-07-29,Создание CLI утилит на Go с библиотекой Cobra,https://habr.com/ru/companies/otus/articles/830082/
+2024-07-28,"Как ИИ-компании переживают “нефтяной кризис”? Как медийные платформы зарабатывают, не делая почти ничего?",https://habr.com/ru/articles/832096/
+2024-07-28,"Запустили SEO-продвижение, а трафика нет – в чём проблема?",https://habr.com/ru/articles/832094/
+2024-07-28,Оракул времени для блокчейна Hyperledger Fabric,https://habr.com/ru/articles/832090/
+2024-07-28,Выгорание тестировщиков: почему так бывает и что делать,https://habr.com/ru/articles/832088/
+2024-07-28,Не только VPN. Как это было и куда идет,https://habr.com/ru/articles/831982/
+2024-07-28,Постквантовый TLS внедряют уже сейчас,https://habr.com/ru/companies/globalsign/articles/832078/
+2024-07-28,Мобильная разработка за неделю #548 (22 — 28 июля),https://habr.com/ru/companies/productivity_inside/articles/832076/
+2024-07-28,На кой review это надо?,https://habr.com/ru/articles/831856/
+2024-07-28,Создание правил SIEM с использованием категорийных моделей,https://habr.com/ru/articles/832074/
+2024-07-28,Кратко про бизнес-модели с помощью канвы Остервальдера,https://habr.com/ru/companies/otus/articles/830364/
+2024-07-28,Студенческий опыт Standoff — на шаг ближе к вершинам,https://habr.com/ru/articles/832068/
+2024-07-28,Шаблон Go-микросервиса для начинающих от .NET разработчика. Часть 2,https://habr.com/ru/articles/820385/
+2024-07-28,Ядерные тепловые ракеты,https://habr.com/ru/articles/832048/
+2024-07-28,WebSim AI: Бесплатный ИИ-помощник для быстрой веб-разработки – время фронтендерам напрячься,https://habr.com/ru/companies/amvera/articles/832046/
+2024-07-28,"Разработчики на PHP умеют писать код, но не всегда знают как устроен web-server",https://habr.com/ru/articles/832040/
+2024-07-28,Большие простые числа: вес последовательностей,https://habr.com/ru/articles/832032/
+2024-07-28,Вскрытие криптоконтейнера через дамп оперативной памяти,https://habr.com/ru/articles/832028/
+2024-07-28,Человекоцентричность: что это такое и чем отличается от клиентоцентричности,https://habr.com/ru/companies/rshb/articles/829720/
+2024-07-28,Назальный спрей от Альцгеймера и с ноотропным эффектом,https://habr.com/ru/articles/832020/
+2024-07-28,Дизайн встраиваемой базы данных для ANN запросов: MusyaDB,https://habr.com/ru/articles/832016/
+2024-07-28,LinkedIn: Как построить успешную карьеру в США,https://habr.com/ru/articles/832012/
+2024-07-28,"Kubernetes становится вендоронезависимым после изменения 1,5 млн. строк кода",https://habr.com/ru/companies/amvera/articles/832004/
+2024-07-28,Как программные ошибки приводят к катастрофическим последствиям,https://habr.com/ru/companies/ruvds/articles/831590/
+2024-07-28,"Китай разработал еще одну национальную ОС: встречаем TencentOS, форк CentOS",https://habr.com/ru/companies/selectel/articles/831976/
+2024-07-28,"ИТ-новости за июль, которые вы могли пропустить",https://habr.com/ru/companies/ru_mts/articles/831776/
+2024-07-28,Как синхронизировать потоки в Java,https://habr.com/ru/companies/otus/articles/830356/
+2024-07-28,Часть 2. Алгоритм Тарьяна для приведения нелинейной системы уравнений к вычисляемой последовательности подстановок,https://habr.com/ru/articles/831950/
+2024-07-28,Отвязное приключение: в гостях у разработчика «ГЭГ»,https://habr.com/ru/companies/timeweb/articles/831940/
+2024-07-28,Инструменты автоматизации маркетинга,https://habr.com/ru/articles/831994/
+2024-07-28,ChatGPT 4-omni (ProTalk) + WordPress + Notion,https://habr.com/ru/articles/831988/
+2024-07-28,Новая космическая экономика: тренды опережающего развития,https://habr.com/ru/articles/831984/
+2024-07-27,Запуск I2S трансивера на Artery,https://habr.com/ru/articles/830184/
+2024-07-27,Вид на жительство в Грузии в 2024 году,https://habr.com/ru/articles/831974/
+2024-07-27,Заметки по архитектуре .NET библиотеки: кастомные структуры как средство валидации значений,https://habr.com/ru/articles/831960/
+2024-07-27,На смерть Агента Mail.ru,https://habr.com/ru/articles/831958/
+2024-07-27,"Симуляция живущего мира, живые NPC",https://habr.com/ru/articles/831954/
+2024-07-27,Управление проектами: дайджест публикаций #12,https://habr.com/ru/articles/831912/
+2024-07-27,Как собрать мнения клиентов для улучшения качества продукта,https://habr.com/ru/companies/otus/articles/831948/
+2024-07-27,Microsoft вырывает очко у Broadcom (в соревнованиях по кривизне обновлений),https://habr.com/ru/articles/831942/
+2024-07-27,Как делают смартфоны: смотрим на редкий девкит процессора Qualcomm Snapdragon 410,https://habr.com/ru/companies/timeweb/articles/831580/
+2024-07-27,"Кто надежнее – врач, ИИ или их тандем? Проверка результатов эксперимента",https://habr.com/ru/companies/bothub/articles/831926/
+2024-07-27,"Больше, чем Quagga — пакет для маршрутизации FRRouting",https://habr.com/ru/companies/vasexperts/articles/831936/
+2024-07-27,Создание процессора с нуля для чайников,https://habr.com/ru/articles/831934/
+2024-07-27,Эффект плацебо и чувство боли. Как мозг перепрошивает себя,https://habr.com/ru/articles/831924/
+2024-07-27,Что такое трассировка требований в проекте и почему она важна?,https://habr.com/ru/articles/831922/
+2024-07-27,Экспериментальная радарная техника раскрыла состав морей Титана,https://habr.com/ru/articles/831920/
+2024-07-27,"Обновление ИИ-генератора Automatic1111 до 1.10.0: поддержка SD3, новшества и возможные проблемы. Стоит ли обновляться?",https://habr.com/ru/articles/831918/
+2024-07-27,LLM и ее невозможный ASCII art,https://habr.com/ru/articles/831786/
+2024-07-27,PinLockSreen на основе KeyStore. Kotlin. Jetpack Compose,https://habr.com/ru/articles/831914/
+2024-07-27,Heroes of Might and Magic III. Разочарование в легенде,https://habr.com/ru/articles/831908/
+2024-07-27,Решение задачи с собеседования Fruit Into Baskets [+ ВИДЕО],https://habr.com/ru/articles/831882/
+2024-07-27,iOS 18 PHAsset URL из requestAVAsset,https://habr.com/ru/articles/831902/
+2024-07-27,Парадокс береговой линии (или как завалить ученика на уроке географии),https://habr.com/ru/articles/831604/
+2024-07-27,С чего начать стратегическое планирование?,https://habr.com/ru/articles/831900/
+2024-07-27,Вендекапец! За что олдовые программисты презирали детище Билла Гейтса?,https://habr.com/ru/companies/ruvds/articles/831678/
+2024-07-27,Перегрев за $1000: что и почему происходит с мощными видеокартами от Nvidia,https://habr.com/ru/companies/selectel/articles/831582/
+2024-07-27,"Rust 1.80.0: типы LazyCell, LazyLock, проверяемые имена и значения cfg, эксклюзивные диапазоны в шаблонах",https://habr.com/ru/articles/831894/
+2024-07-27,Гарантированный успех: решай любые тесты на 100% с мощью GPT в твоем браузере,https://habr.com/ru/articles/831892/
+2024-07-27,Как оживить Кандинский матрицами вращений для генерации видео — модель Splitter (часть 2-я),https://habr.com/ru/articles/831816/
+2024-07-27,"Что на неделе: складной iPhone, сервис знакомств для деревьев и самый быстрый автомобиль от Xiaomi",https://habr.com/ru/companies/agima/articles/831826/
+2024-07-27,"Умные цифровые гитары: 5 необычных моделей, которые можно купить в России",https://habr.com/ru/companies/ru_mts/articles/831802/
+2024-07-27,Решение задачи с собеседования Longest Substring Without Repeating Characters [+ ВИДЕО],https://habr.com/ru/articles/831880/
+2024-07-27,Стать программистом: не с нуля не до профи (Flutter и не только),https://habr.com/ru/articles/831876/
+2024-07-27,Разнообразные орбиобразия,https://habr.com/ru/articles/831872/
+2024-07-27,"Гэри Гайгэкс. Творец, демиург, Dungeon Master",https://habr.com/ru/companies/timeweb/articles/831822/
+2024-07-27,"Кратко про сетевые протоколы в Golang: TCP, QUIC и UDP",https://habr.com/ru/companies/otus/articles/830096/
+2024-07-27,Windows 3.1 спасла авиакомпанию Southwest Airlines,https://habr.com/ru/articles/831864/
+2024-07-26,Как Проинициализировать Микроконтроллер [часть 2],https://habr.com/ru/articles/830964/
+2024-07-26,PANGIT: Дневник разработчика #5,https://habr.com/ru/articles/831854/
+2024-07-26,Я победил замедление YouTube,https://habr.com/ru/articles/831846/
+2024-07-26,Переадресация портов в Kubernetes: команда kubectl port-forward,https://habr.com/ru/companies/otus/articles/829866/
+2024-07-26,Кадры не нужны — 10. Статьи – тоже не нужны. Нужно больше воды в корпоративных блогах,https://habr.com/ru/articles/831842/
+2024-07-26,Как использовать психологию цвета в маркетинге для повышения продаж,https://habr.com/ru/articles/831836/
+2024-07-26,Как продукту попасть в очередь исследовательского бэклога (и желательно долго в ней не стоять),https://habr.com/ru/companies/vk/articles/831796/
+2024-07-26,Невыдуманные истории сисадминов,https://habr.com/ru/companies/habr/articles/831824/
+2024-07-26,"Хореография, оркестрация и Event Driven Orchestration",https://habr.com/ru/articles/831814/
+2024-07-26,Как дела у российского геймдева: 7 достойных игр последних лет,https://habr.com/ru/companies/skillfactory/articles/831810/
+2024-07-26,Прогнозирующие модели Python под капотом Flask,https://habr.com/ru/articles/831792/
+2024-07-26,User-Centered Design (UCD) Process: Полное руководство,https://habr.com/ru/articles/831782/
+2024-07-26,С чего начинается игра?,https://habr.com/ru/articles/831256/
+2024-07-26,"Lockheed F-117 Nighthawk – «Сэр, приказ есть приказ, но я в это не полезу»",https://habr.com/ru/articles/831598/
+2024-07-26,"Чтение на выходные: «Принципы изменения мирового порядка. Почему одни нации побеждают, а другие терпят поражение»",https://habr.com/ru/companies/onlinepatent/articles/831778/
+2024-07-26,Безопасное соединение: как готовят ИТ-специалистов в столичных колледжах,https://habr.com/ru/articles/831770/
+2024-07-26,Асинхронные увeдомления в Telegram: простое решение с новой библиотекой,https://habr.com/ru/articles/831768/
+2024-07-26,Как написать мод для TrackMania 2020 и не запутаться,https://habr.com/ru/companies/selectel/articles/831320/
+2024-07-26,Реализация сапёра в 100 строках чистого Ruby,https://habr.com/ru/companies/ruvds/articles/830778/
+2024-07-26,"Пожалуй, самый простой способ спасти ваше .NET-приложение, или Prometheus (и не только) спешит на помощь",https://habr.com/ru/companies/kaspersky/articles/826038/
+2024-07-26,История и конец ICQ,https://habr.com/ru/articles/831700/
+2024-07-26,Без компромиссов. Как добиться одновременно высокого качества в редактировании и инверсии изображений с помощью StyleGAN,https://habr.com/ru/companies/airi/articles/829004/
+2024-07-26,Заставляем работать MinIO и Postgresql вместе,https://habr.com/ru/articles/831668/
+2024-07-26,Как разработать онлайновый компилятор кода при помощи Java и Docker,https://habr.com/ru/companies/piter/articles/831704/
+2024-07-26,"Разбор CrowdStrike Falcon: общая архитектура системы, взаимодействие сенсора с Windows и описание ошибки драйвера",https://habr.com/ru/companies/ru_mts/articles/831750/
+2024-07-26,История IBM: От табуляторов до суперкомпьютеров,https://habr.com/ru/companies/first/articles/831746/
+2024-07-26,Как модульное тестирование сокращает затраты программиста,https://habr.com/ru/companies/psb/articles/831748/
+2024-07-26,"Выбор JavaScript фреймворка: Сравнение React, Angular и Vue Глазами Разработчика",https://habr.com/ru/articles/831726/
+2024-07-26,"Грубый подсчёт. Или как мне стало обидно, когда от вендоров требуют качественных приложений",https://habr.com/ru/articles/831736/
+2024-07-26,PyMC3: байесовское моделирование и прогнозирование в Python,https://habr.com/ru/companies/otus/articles/829874/
+2024-07-26,Мои взгляды на программирование на июль 2024 года,https://habr.com/ru/companies/productivity_inside/articles/831734/
+2024-07-26,"Обеспечение качества на всём пайплайне разработки, или как создавать продукты, отвечающие ожиданиям",https://habr.com/ru/companies/vk/articles/831432/
+2024-07-26,Уменьшаем неопределенность в проектной деятельности: эволюционная модель команды проекта,https://habr.com/ru/companies/cloud_ru/articles/831012/
+2024-07-26,"Как приручить эмоции, чтобы прийти к успеху",https://habr.com/ru/companies/bercut/articles/831716/
+2024-07-26,Метод локусов или чертоги разума: краткая история знаменитой мнемотехники,https://habr.com/ru/articles/831724/
+2024-07-26,Анализ российского рынка IBP/SCP-систем,https://habr.com/ru/articles/831722/
+2024-07-26,Влияние MD checking на производительность и методы уменьшения влияния на работоспособность системы,https://habr.com/ru/articles/831718/
+2024-07-26,Эффективность на максимум: как выбрать оптимальное сетевое хранилище (NAS) для корпоративной среды,https://habr.com/ru/companies/x-com/articles/831714/
+2024-07-26,Сеть 6G: введение в архитектуру гибридной спутниковой сети,https://habr.com/ru/articles/831712/
+2024-07-26,Самостоятельно добавляем динамическую подсветку Ambilight на свой телевизор или монитор,https://habr.com/ru/articles/831706/
+2024-07-26,Дебажим баги в дебаггере x64dbg. Без дебаггера,https://habr.com/ru/companies/pvs-studio/articles/831698/
+2024-07-26,Измерение внутреннего сопротивления аккумуляторов методом DIY,https://habr.com/ru/articles/831684/
+2024-07-26,Автоматизация рекламных кампаний -  Audience TArgeting Service (ATAS),https://habr.com/ru/companies/magnit/articles/830926/
+2024-07-26,Windows NT 4.0 исполнилось 28 лет. Что из себя представляла эта операционная система?,https://habr.com/ru/companies/ru_mts/articles/831692/
+2024-07-26,"Как понять, что вашему бизнесу необходимо приложение: простейшие подходы для определения потребности и перспектив",https://habr.com/ru/articles/831690/
+2024-07-26,Слепок Браузера: альтернативный подход для борьбы с вредоносным трафиком,https://habr.com/ru/articles/830998/
+2024-07-26,"4,5 летний путь SAFe-трансформации Хоум Банка",https://habr.com/ru/articles/831682/
+2024-07-26,Собеседование в энтерпрайз,https://habr.com/ru/articles/829870/
+2024-07-26,Введение в Apache Flink: архитектура и основные концепции. Часть 2,https://habr.com/ru/companies/T1Holding/articles/830886/
+2024-07-26,Управление контроллером домена с помощью графического интерфейса в РЕД АДМ Промышленная редакция,https://habr.com/ru/companies/redsoft/articles/831496/
+2024-07-26,Как сломать сисадмина,https://habr.com/ru/companies/ruvds/articles/566106/
+2024-07-26,Подсветка элементов онбординга. Spotlight onboarding / Highlight element. SwiftUI iOS15+,https://habr.com/ru/companies/ozontech/articles/830802/
+2024-07-26,ИТ-перестройка: трансформация рынка разработки программного обеспечения в 2023-2024 гг,https://habr.com/ru/articles/831674/
+2024-07-26,Шесть причин выучить Julia в 2024 году,https://habr.com/ru/companies/etmc_exponenta/articles/831670/
+2024-07-26,Витамин Д — почему так важен для организма?,https://habr.com/ru/articles/831636/
+2024-07-26,Интерполяция: рисуем плавные графики с помощью кривых Безье. Версия 2,https://habr.com/ru/articles/831662/
+2024-07-26,Как команда Solar webProxy применяет критерии DoR и DoD в тестировании продукта,https://habr.com/ru/companies/solarsecurity/articles/831532/
+2024-07-26,Flutter. Стиль кода — это все,https://habr.com/ru/articles/831470/
+2024-07-26,Настройся на RAGAS и настрой RAGAS под себя,https://habr.com/ru/companies/sberbank/articles/831346/
+2024-07-26,Волшебный чемоданчик c инструментами создания графики для продуктового дизайнера,https://habr.com/ru/companies/alfa/articles/831376/
+2024-07-26,TypeScript + React: путь к идеально типизированному коду,https://habr.com/ru/companies/otus/articles/829626/
+2024-07-26,Пройти собеседование на аналитика 1С. Миссия выполнима?,https://habr.com/ru/companies/sigma/articles/831476/
+2024-07-26,Вместо репетитора: как учить языки с помощью нейросетей,https://habr.com/ru/articles/831650/
+2024-07-26,Как современные решения в ИТ-индустрии могут ускорить развитие космической отрасли,https://habr.com/ru/articles/831640/
+2024-07-26,История планшетных компьютеров. От древних времен до конца двадцатого века,https://habr.com/ru/companies/timeweb/articles/831522/
+2024-07-26,Создание игр на Unity: с чего начать?,https://habr.com/ru/articles/828302/
+2024-07-26,Игрушечная имплементация чисел с фиксированной точкой в C++,https://habr.com/ru/articles/831624/
+2024-07-26,"RLHF. История становления идеи — 2. Offline RL, Self-play, Reward Model",https://habr.com/ru/articles/830512/
+2024-07-26,Чем заменить Docker Hub в России,https://habr.com/ru/articles/831608/
+2024-07-26,Реверсинг приложений под Android. Ищем уязвимости,https://habr.com/ru/companies/otus/articles/830124/
+2024-07-26,Случайные блуждания: связь с резистивным расстоянием (часть 3),https://habr.com/ru/articles/831490/
+2024-07-26,Сколько стоит 3D-принтер по металлу?,https://habr.com/ru/companies/top3dshop/articles/831592/
+2024-07-26,"Newbee торговый бот: часть вторая, скрининг рынка облигаций ОФЗ",https://habr.com/ru/articles/831586/
+2024-07-25,Ускорение генерации токена LLM в два раза для больших контекстов,https://habr.com/ru/articles/817009/
+2024-07-25,Приглашаем на летне-осенние лекции по игровой индустрии и IT в ВШБ,https://habr.com/ru/companies/miip/articles/831556/
+2024-07-25,Автоматизируем тестирование с помощью Lettuce,https://habr.com/ru/companies/otus/articles/830118/
+2024-07-25,OpenAI анонсировала SearchGPT: поиск в интернете на базе ChatGPT4,https://habr.com/ru/articles/831576/
+2024-07-25,Визуализация эмоций в диалогах людей и чат-ботов,https://habr.com/ru/articles/831506/
+2024-07-25,"Простые приёмы, которые сделают ваш код нагляднее",https://habr.com/ru/articles/831570/
+2024-07-25,Как я стал Сисадмином,https://habr.com/ru/articles/831568/
+2024-07-25,Работа с геометрией в JPA и Spring Boot 3,https://habr.com/ru/articles/831566/
+2024-07-25,Использование алгоритма Бойера-Мура-Хорспула в Java с примером решения задачи с LeetCode,https://habr.com/ru/articles/831562/
+2024-07-25,justCTF 2024 [teaser] — blockchain,https://habr.com/ru/companies/radcop/articles/831560/
+2024-07-25,Уязвимость к атакам российских больших языковых моделей с открытым исходным кодом,https://habr.com/ru/companies/isp_ras/articles/831550/
+2024-07-25,Пишем собственный макрос на Dart 3.5: глубокий разбор,https://habr.com/ru/articles/831546/
+2024-07-25,Какие задачи сегодня решаются с помощью транспортной видеоаналитики,https://habr.com/ru/companies/ru_mts/articles/831542/
+2024-07-25,"Инженерные метрики: что мерить, как и зачем?",https://habr.com/ru/companies/otus/articles/831540/
+2024-07-25,Обзор ноутбука Inferit Silver,https://habr.com/ru/articles/831176/
+2024-07-25,ElasticSearch — поиск последовательности в тексте,https://habr.com/ru/companies/tbank/articles/831498/
+2024-07-25,Реверс-инжиниринг PWN-тасков или эксплуатируем бинарные уязвимости (Часть 4 / Stack3),https://habr.com/ru/articles/831528/
+2024-07-25,"Как мы делали Bounty-кампанию для блокчейн-стартапа, и что из этого вышло",https://habr.com/ru/articles/831526/
+2024-07-25,Как управлять вниманием пользователя,https://habr.com/ru/companies/friflex/articles/831524/
+2024-07-25,Студенты будущего: как получить образование от ИТ-кампуса НЕЙМАРК уже в 2024 году?,https://habr.com/ru/companies/neimark/articles/831508/
+2024-07-25,Тестирование VDS-серверов,https://habr.com/ru/articles/831502/
+2024-07-25,Форекс Вануату,https://habr.com/ru/companies/ybcase/articles/831500/
+2024-07-25,"Стажер, который смог: советы по выживанию на стажировке от Junior-разрабов и их менторов",https://habr.com/ru/companies/agima/articles/831466/
+2024-07-25,Покупка недвижимости за криптовалюту в разных странах,https://habr.com/ru/companies/ybcase/articles/831494/
+2024-07-25,Частный взгляд на структурирование файлов при разработке SPA,https://habr.com/ru/articles/831484/
+2024-07-25,Использование метода «почти бесконечного» запроса для сопоставления CPU интенсивных операций в Oracle,https://habr.com/ru/companies/gnivc/articles/831486/
+2024-07-25,Книга: «Фулстек-тестирование»,https://habr.com/ru/companies/piter/articles/831200/
+2024-07-25,Как я создал архиватор из задачки с техсобеса: сжатие файлов с помощью RLE,https://habr.com/ru/companies/kts/articles/831440/
+2024-07-25,Зачем нужен код-ревью?,https://habr.com/ru/articles/831472/
+2024-07-25,Лазеры в электронике: утонение кремния,https://habr.com/ru/articles/831154/
+2024-07-25,"Как организовать внутренний митап, чтобы он зашел команде? Наши принципы и немного истории",https://habr.com/ru/companies/ctsg/articles/831464/
+2024-07-25,"А что, если записать звук на бумагу?",https://habr.com/ru/companies/ruvds/articles/830076/
+2024-07-25,Жизнь во время ревью: как помирить Лешу и Славу и при этом не обидеть Колю…,https://habr.com/ru/companies/barsgroup/articles/831456/
+2024-07-25,Тонкости организации гибкого офиса от компании ЛИИС,https://habr.com/ru/companies/ipmatika/articles/831450/
+2024-07-25,Айтишный COO в ритейле: цифровизация бизнес-процессов на производстве,https://habr.com/ru/articles/831400/
+2024-07-25,Задача трёх тел (не китайская нефантастика),https://habr.com/ru/articles/830618/
+2024-07-25,От бумажной фабрики до телеком-гиганта: история Nokia,https://habr.com/ru/companies/onlinepatent/articles/831442/
+2024-07-25,Как построить эффективную стратегию мониторинга с высокой наблюдаемостью,https://habr.com/ru/companies/itsumma/articles/814195/
+2024-07-25,Внутренние коммуникации инженеров: как поддержать командный дух на удалёнке,https://habr.com/ru/companies/2gis/articles/831436/
+2024-07-25,"«Поймай меня, если сможешь», или как мы расставляем ловушки для хакеров",https://habr.com/ru/companies/innostage/articles/831414/
+2024-07-25,Как разработчик систему продуктовой аналитики Posthog подключал,https://habr.com/ru/articles/831428/
+2024-07-25,Donkey.bas на Python в 170 строк,https://habr.com/ru/articles/831198/
+2024-07-25,"Разработка игр под Apple Vision Pro: ARKit, realityKit, Reality Composer Pro",https://habr.com/ru/articles/831422/
+2024-07-25,Эволюция конечных автоматов в бэкенд-разработке,https://habr.com/ru/companies/yoomoney/articles/830538/
+2024-07-25,В чем сходство и различия технологий DLP и DAG? Почему один класс систем не заменяет другой?,https://habr.com/ru/companies/solarsecurity/articles/831416/
+2024-07-25,Создание Framework для Go: Вдохновение от Laravel,https://habr.com/ru/articles/831410/
+2024-07-25,«Белое зеркало»: как AI улучшит жизнь в ближайшие 10 лет,https://habr.com/ru/specials/831304/
+2024-07-25,Синергия дизайнеров и техписов: создание единых стандартов Tone of voice,https://habr.com/ru/companies/X5Tech/articles/831344/
+2024-07-25,"Дискаверинг. Что это, и зачем он нужен?",https://habr.com/ru/articles/830468/
+2024-07-25,Обзор основных возможностей инструмента SimPCB для расчета параметров линий передач в программе Delta Design,https://habr.com/ru/articles/831396/
+2024-07-25,"AMD подтвердила работу над Zen 6, Zen 6c и Zen 7. Когда их ждать, и что там с сокетами",https://habr.com/ru/companies/x-com/articles/831394/
+2024-07-25,PHP функции и способы их применения,https://habr.com/ru/articles/831388/
+2024-07-25,Создание собственного API на Python (FastAPI): Подключаем фронтенд и статические файлы,https://habr.com/ru/articles/831386/
+2024-07-25,Как начинающему тимлиду не сойти с ума от обилия задач: практический гайд,https://habr.com/ru/companies/kuper/articles/830426/
+2024-07-25,Все проблемы A-U-T-H и слабые пароли,https://habr.com/ru/companies/mws/articles/831232/
+2024-07-25,Дизайн-тренды 2025,https://habr.com/ru/articles/831382/
+2024-07-25,Что такое programmatic-реклама и как она работает,https://habr.com/ru/companies/click/articles/831224/
+2024-07-25,"Тот, кто поможет — обучение с менторами",https://habr.com/ru/companies/habr_career/articles/831336/
+2024-07-25,Внедряем CI/CD в разработку с помощью Gitlab CI,https://habr.com/ru/articles/831110/
+2024-07-25,В погоне за звуком Билли Гиббонса. Часть 3: маленький секрет,https://habr.com/ru/companies/ruvds/articles/830942/
+2024-07-25,Проще некуда: феномен гиперказуальных игр,https://habr.com/ru/companies/magnus-tech/articles/831326/
+2024-07-25,Telegram вместо студии звукозаписи: как я создал бота для мобильных музыкантов,https://habr.com/ru/companies/selectel/articles/831348/
+2024-07-25,Ставим диагноз по базе знаний: ваш чек-лист по проблемам в процессах,https://habr.com/ru/companies/lamoda/articles/828422/
+2024-07-25,"Что вы скрываете, Mr. VMware? Вы прячете у себя Linux, не так ли?",https://habr.com/ru/companies/sberbank/articles/831352/
+2024-07-25,Секретики в «повреждённых» скинах Winamp,https://habr.com/ru/companies/cloud4y/articles/831340/
+2024-07-25,Нужно ли техническое образование программисту?,https://habr.com/ru/articles/831338/
+2024-07-25,Первый долгожитель Красной планеты: 48 лет назад на Марс опустился аппарат «Викинг-1»,https://habr.com/ru/companies/ru_mts/articles/831334/
+2024-07-25,Передаем игру в эфире ZX-Spectrum или цифровой Дон Кихот в воздухе,https://habr.com/ru/companies/timeweb/articles/826220/
+2024-07-25,Как мы учили ChatGPT писать приветствия для бизнес-знакомств,https://habr.com/ru/companies/tochka/articles/830730/
+2024-07-25,Как дизайн-менеджеру не зашиваться с проведением дизайн-ревью,https://habr.com/ru/companies/domclick/articles/829538/
+2024-07-25,Метрики качества динамических плейбуков,https://habr.com/ru/companies/securityvison/articles/831182/
+2024-07-25,Новый метод может создать быструю межстрановую квантовую сеть,https://habr.com/ru/companies/domrf/articles/831322/
+2024-07-25,Полный гайд по тестированию на Flutter. Часть 3: Mocking и Stubbing,https://habr.com/ru/articles/831094/
+2024-07-25,"Разбираем ошибки контекстной рекламы в премиум сегменте и увеличиваем количество лидов в 2,5 раза производству мебели",https://habr.com/ru/companies/mako_digital/articles/831068/
+2024-07-25,Получаем белый IP с помощью VDS за копейки,https://habr.com/ru/articles/831306/
+2024-07-25,"Команда роста для цифровых продуктов: разбираемся, что это и кому нужно в первую очередь",https://habr.com/ru/articles/831302/
+2024-07-25,Как сделать доступ в личный кабинет с помощью Flet,https://habr.com/ru/companies/exolve/articles/831142/
+2024-07-25,"Как мы уменьшили количество кода для генерации графиков в 10 раз, сделав Vue-компонент",https://habr.com/ru/articles/830608/
+2024-07-25,"Какая бывает мотивация, или «Кто ты из Простоквашино»",https://habr.com/ru/companies/alfa/articles/831124/
+2024-07-25,"Двухкомнатная квартира с приточной вентустановкой: добавляем умный дом, но по частям",https://habr.com/ru/companies/wirenboard/articles/831246/
+2024-07-25,Как мы переводили автоматизированную банковскую систему RS-Bank V.6 на импортозамещенный стек,https://habr.com/ru/companies/rshb/articles/830752/
+2024-07-25,Интеграция REST и MQ брокеров сообщений через шлюз OpenIG,https://habr.com/ru/articles/828832/
+2024-07-25,Бурбон и патентные споры: как появился первый цифровой компьютер,https://habr.com/ru/companies/gazprombank/articles/831046/
+2024-07-25,От носителей до регламентов: как построить безопасную архитектуру бэкапов,https://habr.com/ru/companies/k2tech/articles/831216/
+2024-07-25,Удаленка не для всех глазами лида,https://habr.com/ru/companies/maxilect/articles/831254/
+2024-07-25,10 перспективных российских стартапов – июнь 2024 года,https://habr.com/ru/companies/productradar/articles/831292/
+2024-07-25,Как обеспечить масштабируемость проекта со старта и подстроить CI/CD под свои цели? Основано на реальных событиях,https://habr.com/ru/companies/clevertec/articles/830852/
+2024-07-25,Электронная книга ONYX BOOX Raphael. Обзор компактной модели с цветным E-Ink дисплеем,https://habr.com/ru/articles/825326/
+2024-07-25,Как запускать WebAssembly-приложения в Kubernetes с помощью Deckhouse,https://habr.com/ru/companies/flant/articles/829946/
+2024-07-25,Гайд для системного аналитика: как управлять требованиями на разных этапах проекта. Часть 2: планирование и исполнение,https://habr.com/ru/companies/yandex_praktikum/articles/830044/
+2024-07-25,Представлена языковая модель Mistral Large 2 размером 123B. Как запускать. Локальный Сopilot. Открытый конкурент GPT-4o,https://habr.com/ru/articles/831272/
+2024-07-25,Повышенная точность установки указателя мыши в играх,https://habr.com/ru/articles/831278/
+2024-07-25,Проверка гипотез по методике HADI,https://habr.com/ru/articles/831276/
+2024-07-25,Клёвые фичи в Docker Compose — профили и шаблоны,https://habr.com/ru/articles/830002/
+2024-07-24,Как наш ученик попал на стажировку в VK. История Артёма Мазура,https://habr.com/ru/articles/831252/
+2024-07-24,Как проходить акселератор проектов и что это дает,https://habr.com/ru/articles/831244/
+2024-07-24,Изображая цифровое искусство: становление профессии нейрохудожника,https://habr.com/ru/articles/831242/
+2024-07-24,"Tell me about yourself — вопросы для собеседования на английском (на примере Product manager, ответы + грамматика)",https://habr.com/ru/articles/831238/
+2024-07-24,AuraFlow — новейшая модель для генерации изображений с открытым исходным кодом,https://habr.com/ru/articles/831236/
+2024-07-24,Быстрый старт: Docker + SMTP + Java/Go,https://habr.com/ru/articles/831230/
+2024-07-24,"Почему мне не понравилась нейросеть Codeium: кажется, она больше мешает",https://habr.com/ru/articles/831222/
+2024-07-24,Слуга двух господ — отправляем задачу через Телеграм-бота в Trello и YouGile,https://habr.com/ru/articles/831218/
+2024-07-24,Разработка через Termidesk: утопия или рабочая реальность разработчика,https://habr.com/ru/companies/astralinux/articles/830908/
+2024-07-24,Онбординг пользователей: 9 шагов к совершенствованию процесса знакомства пользователя с продуктом,https://habr.com/ru/companies/otus/articles/831082/
+2024-07-24,Обучение языковых моделей на примере сервиса протоколирования встреч AiGenda,https://habr.com/ru/articles/831202/
+2024-07-24,"Винтажные портативные игровые консоли, о которых вы могли не знать: 6 моделей конца XX века",https://habr.com/ru/companies/ru_mts/articles/831196/
+2024-07-24,Реализация паттерна Fluent API с помощью Playwright и Javascript/Typescript,https://habr.com/ru/articles/831190/
+2024-07-24,Ornament-8. Аналоговый функциональный генератор поведения. Часть 1,https://habr.com/ru/articles/830552/
+2024-07-24,ruMTEB: новый бенчмарк для русскоязычных эмбеддеров,https://habr.com/ru/companies/sberdevices/articles/831150/
+2024-07-24,Почему нашего филина зовут Гуамоколатокинт,https://habr.com/ru/companies/setere/articles/831184/
+2024-07-24,Как установить Apache Spark за 10 минут,https://habr.com/ru/articles/831180/
+2024-07-24,Авито мертв для бизнеса в 2024?,https://habr.com/ru/companies/moysklad/articles/831122/
+2024-07-24,Avira: защита от компьютерных вирусов и «умного дома»,https://habr.com/ru/companies/onlinepatent/articles/831174/
+2024-07-24,Красота и изящество таблицы ASCII,https://habr.com/ru/companies/ruvds/articles/831138/
+2024-07-24,Flyway + Spring Boot: настройка и написание миграций баз данных,https://habr.com/ru/companies/haulmont/articles/829782/
+2024-07-24,Сила gRPC в облачных окружениях,https://habr.com/ru/companies/piter/articles/831166/
+2024-07-24,Авторские права на служебные произведения и изобретения: что нужно знать автору и работодателю,https://habr.com/ru/articles/831168/
+2024-07-24,Наш первый опенсорс,https://habr.com/ru/companies/smartup_tech/articles/831152/
+2024-07-24,Тест батареек Фаzа AA и AAA,https://habr.com/ru/companies/lamptest/articles/831146/
+2024-07-24,Как cделать тестирование кода более эффективным: принципы F.I.R.S.T,https://habr.com/ru/articles/830962/
+2024-07-24,Строим свой WYSIWYG с помощью LexicalJs,https://habr.com/ru/companies/beeline_tech/articles/825316/
+2024-07-24,Я перестал использовать Copilot после 2 месяцев. И вот почему,https://habr.com/ru/articles/831140/
+2024-07-24,От Junior QA до Product Owner: моя история роста в Exante,https://habr.com/ru/companies/exante/articles/831034/
+2024-07-24,Как работают изоляты в Dart?,https://habr.com/ru/companies/otus/articles/831120/
+2024-07-24,Покупка недвижимости на Мадейре,https://habr.com/ru/companies/ybcase/articles/831128/
+2024-07-24,Bug Bounty в России: как дела с белыми русскими хакерами?,https://habr.com/ru/companies/vk/articles/830922/
+2024-07-24,Data Science в travel-tech. Часть 1. Поиск и бронирование,https://habr.com/ru/companies/ostrovok/articles/831126/
+2024-07-24,Memex: как мы можем мыслить? Гипертекстовое устройство из 1945 года,https://habr.com/ru/companies/serverspace/articles/831088/
+2024-07-24,Прошиваем программу не только в начало FLASH памяти STM32,https://habr.com/ru/articles/831016/
+2024-07-24,"Главные новости ИИ #2: Волож сделал “Ctrl + X”, техапокалипсис, Йоханссон против OpenAI, бессмертие к 2045 году",https://habr.com/ru/articles/831092/
+2024-07-24,Фиксим баги в вашем AI или разбор ошибок в OpenVINO,https://habr.com/ru/companies/pvs-studio/articles/831080/
+2024-07-24,Электронные сигареты: что по вреду?,https://habr.com/ru/articles/830996/
+2024-07-24,Как заглянуть под капот Composable функции,https://habr.com/ru/companies/alfa/articles/827510/
+2024-07-24,Введение в Apache Flink: архитектура и основные концепции. Часть 1,https://habr.com/ru/companies/T1Holding/articles/830878/
+2024-07-24,Айтишников медтех-компаний ждут проблемы: госфинансирование уменьшается,https://habr.com/ru/articles/831040/
+2024-07-24,Установка LLM на скромном VPS,https://habr.com/ru/companies/ruvds/articles/829932/
+2024-07-24,Двадцать четыре взгляда на кибербезопасность глазами бизнес-партнёра,https://habr.com/ru/companies/ozontech/articles/830824/
+2024-07-24,Работа с TCP IP на IBM Mainframe,https://habr.com/ru/companies/otus/articles/831062/
+2024-07-24,От перегрузки к фокусировке: изучаем роль современных HMI в промышленной автоматизации,https://habr.com/ru/companies/reksoft/articles/831058/
+2024-07-24,"Пять необычных ПК, которые поместятся в карман",https://habr.com/ru/companies/ru_mts/articles/831056/
+2024-07-24,Что такое supervised fine-tuning?,https://habr.com/ru/articles/829318/
+2024-07-24,3D-печать для чайников. Часть 1: Подготовка,https://habr.com/ru/companies/first/articles/829306/
+2024-07-24,"На что обратить внимание при выборе ИТ-партнера? 7 критериев, которые не стоит упускать",https://habr.com/ru/articles/830912/
+2024-07-24,Что поможет настроить процесс работы с обращениями пользователей,https://habr.com/ru/companies/avito/articles/829140/
+2024-07-24,Самопаркующийся авто за 500 строк кода,https://habr.com/ru/companies/timeweb/articles/829352/
+2024-07-24,"Почему иногда лучше оценить задачу в размерах майки, чем в часах",https://habr.com/ru/companies/selectel/articles/830848/
+2024-07-24,Из Москвы в Сочи на электромобиле: к чему готовиться,https://habr.com/ru/companies/atom/articles/830906/
+2024-07-24,Новый убийца Си опроверг арифметику,https://habr.com/ru/articles/831014/
+2024-07-24,Как эффективно решить дизайн-задачу: задаём продакт-менеджеру правильные вопросы,https://habr.com/ru/companies/yandex_praktikum/articles/830320/
+2024-07-24,Как мы внедрили ИИ на сайте одного из гуру «Международного общества сознания Кришны»,https://habr.com/ru/articles/830648/
+2024-07-24,Контроль срока службы и биоразложения: имплантируемая электроника,https://habr.com/ru/companies/ua-hosting/articles/830698/
+2024-07-24,Как реализовать и оптимизировать UPSERT в Greenplum 6,https://habr.com/ru/companies/arenadata/articles/830864/
+2024-07-24,Шифровальщики – волшебные твари и где они обитают,https://habr.com/ru/companies/gaz-is/articles/830034/
+2024-07-24,Выпускные проекты участников senior-буткемпа «кодИИм» (июль 2024 г.),https://habr.com/ru/articles/831002/
+2024-07-24,Зачем на самом деле нужны программисты?,https://habr.com/ru/articles/831000/
+2024-07-24,Что такое pre-IPO простыми словами — с точки зрения компании и инвестора,https://habr.com/ru/articles/830814/
+2024-07-24,Дата-сайентистам: рецензия на книгу “Машинное обучение с PyTorch и Scikit-Learn”,https://habr.com/ru/companies/ssp-soft/articles/830004/
+2024-07-24,Случайные блуждания: связь с резистивным расстоянием (часть 2),https://habr.com/ru/articles/830594/
+2024-07-24,Слабоумие и отвага: Разработка игры Disciples 2 на Avalonia и WPF,https://habr.com/ru/articles/789592/
+2024-07-24,Кто такой Data Engineer | Дата Инженер,https://habr.com/ru/articles/830376/
+2024-07-24,Мышечная дистрофия Дюшенна. Разработка протокола генной терапии для людей,https://habr.com/ru/articles/830978/
+2024-07-24,Квантовый искусственный интеллект: пересечение квантовых вычислений и машинного обучения,https://habr.com/ru/articles/830976/
+2024-07-24,Работа со слоями в Nuxt 3,https://habr.com/ru/articles/830968/
+2024-07-24,Чему стоит поучиться у старенькой Bioshock: Infinite?,https://habr.com/ru/articles/830682/
+2024-07-23,Там и тогда,https://habr.com/ru/articles/830966/
+2024-07-23,Большие простые числа: доказательство простоты,https://habr.com/ru/articles/830958/
+2024-07-23,"С какими проблемами сталкиваются дизайнеры, делая сервис для арабских пользователей",https://habr.com/ru/articles/830956/
+2024-07-23,Как работает блокчейн: объяснение от эксперта по ML и AI Петра Емельянова,https://habr.com/ru/articles/830954/
+2024-07-23,Как не бояться разработки РПГ,https://habr.com/ru/companies/miip/articles/830696/
+2024-07-23,Учёные изобрели линзы ночного зрения,https://habr.com/ru/articles/830950/
+2024-07-23,Деплоим Grafana Dashboard через ArgoCD,https://habr.com/ru/companies/otus/articles/830892/
+2024-07-23,Как визуальные головоломки помогут выявить AGI,https://habr.com/ru/articles/828894/
+2024-07-23,Есть только 5 способов создать компанию стоимостью более 100 млрд.$. Какие?,https://habr.com/ru/companies/amvera/articles/830632/
+2024-07-23,Нормализуем собственное рабочее время или «очумелые ручки» в борьбе с прокрастинацией,https://habr.com/ru/articles/830944/
+2024-07-23,Как мы оценивали любые требования заказчика за два часа,https://habr.com/ru/articles/830946/
+2024-07-23,"Как вести документацию, чтобы никто ничего не понял. Немного теории и вредные советы от МТС Диджитал",https://habr.com/ru/companies/ru_mts/articles/830940/
+2024-07-23,Разворачиваем стенд для UI-тестирования iOS на базе Selenoid,https://habr.com/ru/companies/alfa/articles/830616/
+2024-07-23,"B2B UX: цели, задачи, роли, компетенции",https://habr.com/ru/articles/830916/
+2024-07-23,Рецепты самопомощи аналитика: универсальная стратегия предотвращения ошибок,https://habr.com/ru/companies/naumen/articles/830808/
+2024-07-23,"Дизайн без процесса, или Ловушка форм-фактора",https://habr.com/ru/companies/agima/articles/830888/
+2024-07-23,Слияние словарей в PyTorch: зачем нужно и подводные камни,https://habr.com/ru/companies/ruvds/articles/825950/
+2024-07-23,Совместимость серверов Тринити с платформами виртуализации: «Росплатформа»,https://habr.com/ru/companies/trinity/articles/828180/
+2024-07-23,Универсальный шаблон приветственной страницы: упрощаем онбординг в команду,https://habr.com/ru/companies/ozontech/articles/830842/
+2024-07-23,Вы просили катастрофоустойчивость в почте? Мы сделали. Рассказываем про релиз Mailion 1.9,https://habr.com/ru/companies/ncloudtech/articles/830884/
+2024-07-23,Тест лампочки Elektrostandard 12 Вт Е27,https://habr.com/ru/articles/830880/
+2024-07-23,Что творится в Европе? Как это отразится на релокации и куда теперь деваться?,https://habr.com/ru/articles/830684/
+2024-07-23,Как быстро адаптировать сотрудников,https://habr.com/ru/companies/otpbank/articles/830876/
+2024-07-23,ВНЖ на Мадейре,https://habr.com/ru/companies/ybcase/articles/830868/
+2024-07-23,Ошибки в языке Go — это большая ошибка,https://habr.com/ru/companies/karuna/articles/830346/
+2024-07-23,5 удобных Телеграм-ботов с Chat GPT для написания кода,https://habr.com/ru/articles/830850/
+2024-07-23,"Midjourney в законе: как использовать дизайнеру и агентству, как договориться с клиентом",https://habr.com/ru/articles/830854/
+2024-07-23,Краткий гайд по целеполаганию или как ставить цели и достигать их,https://habr.com/ru/companies/otus/articles/830676/
+2024-07-23,Что изменилось за последние 25 лет в медицине и почему вас часто лечат по старинке,https://habr.com/ru/companies/belayaraduga/articles/829468/
+2024-07-23,Создание 3D-модели компонента EasyEDA в FreeCAD,https://habr.com/ru/articles/830844/
+2024-07-23,Способы организации команд разработки,https://habr.com/ru/articles/830840/
+2024-07-23,"Как мы построили сервис, который поможет сократить поиск видео контента в огромной базе данных",https://habr.com/ru/articles/830838/
+2024-07-23,ResNet-18: ищем динозавров или упражнения с векторами,https://habr.com/ru/articles/830836/
+2024-07-23,Способы организации команд разработки,https://habr.com/ru/articles/830832/
+2024-07-23,Как рост вычислительных мощностей отражается на точности и качестве моделей,https://habr.com/ru/companies/mws/articles/830826/
+2024-07-23,"Выбираем между инструкциями RUN, CMD и ENTRYPOINT",https://habr.com/ru/companies/nixys/articles/830830/
+2024-07-23,Ваш шанс увидеть динозавра,https://habr.com/ru/articles/830828/
+2024-07-23,14 конференций осени и 14 видеозаписей докладов,https://habr.com/ru/companies/jugru/articles/830768/
+2024-07-23,"Прошлое, настоящее и будущее взлома паролей",https://habr.com/ru/companies/bastion/articles/830746/
+2024-07-23,Приватный Kubernetes за 50 минут,https://habr.com/ru/companies/selectel/articles/830810/
+2024-07-23,Самый быстрый фреймворк на Диком Западе: ускоряем Django-rest-framework вместе с Rust,https://habr.com/ru/companies/yadro/articles/830024/
+2024-07-23,Разбираемся с новой уязвимостью Android-библиотеки Jetpack Navigation: как открыть любой фрагмент из вашего приложения?,https://habr.com/ru/companies/swordfish_security/articles/830338/
+2024-07-23,Импортирование csv или json файлов в Heroku Postgres Databases,https://habr.com/ru/articles/830818/
+2024-07-23,Наш опыт применения AI-технологий для классификации документов для подачи в суд,https://habr.com/ru/articles/830796/
+2024-07-23,Обзор невизуальной доступности досок объявлений: сайтов и мобильных приложений,https://habr.com/ru/articles/830780/
+2024-07-23,Стабы и моки нарушают инкапсуляцию,https://habr.com/ru/companies/otus/articles/830794/
+2024-07-23,Как мы внедрили подготовку аналитиков  к kick-off meeting перед выводом сотрудника на аутстафф,https://habr.com/ru/articles/830788/
+2024-07-23,Подробный гайд по B2B продажам от Y Combinator,https://habr.com/ru/articles/830774/
+2024-07-23,Как развивалась технология экстремального сжатия LLM: от QuIP до AQLM с PV-tuning,https://habr.com/ru/companies/yandex/articles/830410/
+2024-07-23,Как публиковать библиотеку в Maven Central Portal в 2024 году,https://habr.com/ru/articles/830630/
+2024-07-23,Магия CSS на практике: советы по вёрстке от гика. Часть 2,https://habr.com/ru/companies/ruvds/articles/829174/
+2024-07-23,Быстрая обработка данных в data lake с помощью SQL,https://habr.com/ru/companies/oleg-bunin/articles/828836/
+2024-07-23,Кворум кроликов или RabbitMQ Quorum,https://habr.com/ru/articles/830442/
+2024-07-23,Как с помощью supervised fine-tuning кастомизировать LLM,https://habr.com/ru/articles/829324/
+2024-07-23,Полный гайд по тестированию на Flutter. Часть 2: Простые модульные тесты,https://habr.com/ru/articles/830762/
+2024-07-23,"Легко ремонтировать, доступная цена. CMF Phone 1 — что это за девайс?",https://habr.com/ru/companies/ru_mts/articles/830760/
+2024-07-23,Как лучше узнать свою аудиторию,https://habr.com/ru/articles/830758/
+2024-07-23,"Как я превратил обычный бизнес в IT компанию, читая книги",https://habr.com/ru/companies/timeweb/articles/830144/
+2024-07-23,JavaScript в гугл-таблицах: скрипты для расчета мультивалютной корзины,https://habr.com/ru/companies/m2tech/articles/830556/
+2024-07-23,AMD готовит революцию на рынке ультрабюджетных процессоров. Нас ждут Ryzen 3 или Athlon на AM5 дешевле $100,https://habr.com/ru/companies/x-com/articles/830748/
+2024-07-23,Мэттью О'Коннор о лечении атеросклероза и борьбе со старением,https://habr.com/ru/articles/830246/
+2024-07-23,От веб-настолки до 3D-метавселенной: как мы разрабатываем игру для сотрудников,https://habr.com/ru/companies/merkteam/articles/830742/
+2024-07-23,Почему у интернет-магазина мало продаж? Ошибка №7 – реклама всего ассортимента была убыточна из-за дешевых товаров,https://habr.com/ru/companies/mako_digital/articles/830628/
+2024-07-23,Как выиграть в лотерею?,https://habr.com/ru/articles/830738/
+2024-07-23,Щупаем первый 8-битный процессор от Intel — 8008,https://habr.com/ru/articles/830734/
+2024-07-23,"Самые дикие налоговые проблемы, в которые встряли уехавшие из России айтишники в 2024",https://habr.com/ru/articles/830650/
+2024-07-23,Краткий экскурс в работу мозга: знания для повышения эффективности,https://habr.com/ru/companies/lanit/articles/827628/
+2024-07-23,Законодательство РФ в области корпоративных информационных систем и ИТ,https://habr.com/ru/articles/830728/
+2024-07-23,Оптимизатор монтажей прокатного стана-2000,https://habr.com/ru/companies/nlmk/articles/825814/
+2024-07-23,Диспетчеризация и автоматизация многоквартирного дома на Wiren Board,https://habr.com/ru/companies/wirenboard/articles/830666/
+2024-07-23,"То, чего на самом деле следует бояться",https://habr.com/ru/articles/830484/
+2024-07-23,Как проверить успешность фичи,https://habr.com/ru/companies/skbkontur/articles/827360/
+2024-07-23,"Zen of Python: история, реализация и пасхалки",https://habr.com/ru/articles/825884/
+2024-07-23,Managed Kubernetes. Полный список российских провайдеров,https://habr.com/ru/companies/amvera/articles/830596/
+2024-07-23,Как работает Python Asyncio: воссоздаем с нуля,https://habr.com/ru/articles/830720/
+2024-07-23,Полезности для пентестера,https://habr.com/ru/companies/otus/articles/829998/
+2024-07-23,Мой список лучших и худших книг,https://habr.com/ru/articles/804877/
+2024-07-23,"Пивная IT-экосистема, знакомства на основе любимой музыки – эти и другие российские стартапы",https://habr.com/ru/companies/productradar/articles/830522/
+2024-07-23,Строительство нового космодрома Вэньчан — чисто коммерческий проект?,https://habr.com/ru/articles/830194/
+2024-07-23,Превращаем игроманию в полезное времяпрепровождение! (1-я часть),https://habr.com/ru/articles/830686/
