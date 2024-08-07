@@ -17,6 +17,11 @@ make spacy
 make test
 ```
 
+### Запуск дополнительного задания
+```bash
+python3 retrieve_articles.py
+```
+
 
 ## Примечания по выполнению задачи
 
